@@ -6,7 +6,6 @@ import csv
 import string
 import re
 
-#Format for URL : http://www.moneycontrol.com/india/mutualfunds/mfinfo/portfolio_holdings/MBO225
 
 amc="TE"
 #Trying out for Franklin - Getting equity 
@@ -22,11 +21,11 @@ mfRows=[]
 
 
 for row in allFundsForAMC:
-     mfRows.append([row.get('href').split('/')[-1]+","+row.text])
+     mfRows.append([row.text,row.get('href').split('/')[-1]])
 
 
 headers=["Fund Name","URL Tag"]
-with open('csv/FundList.csv', 'w') as f:
+with open('csv/FundList.csv','w',newline='\n') as f:
     writer = csv.writer(f)
     writer.writerow(headers)
     writer.writerows(row for row in mfRows)

@@ -33,7 +33,7 @@ for row in table.find_all('tr'):
      rows.append([cleanTableRecord(val)  for val in row.find_all('td')])
 
 #Write
-with open('csv/uti-nifty.csv', 'w') as f:
+with open('csv/uti-nifty.csv', 'w',newline='') as f:
     writer = csv.writer(f)
     writer.writerow(headers)
     writer.writerows(row for row in rows)
