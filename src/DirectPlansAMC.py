@@ -7,21 +7,31 @@ import string
 import re
 
 
-amc="TE"
-#Trying out for Franklin - Getting equity 
-url = "https://www.moneycontrol.com/mutual-funds/amc-details/"+amc
-response = requests.get(url)
-
-soup = BeautifulSoup(response.text,"html.parser")
-
-# Get Holdings Table
-allFundsForAMC=soup.findAll("a",attrs={'class':'arial11blue'})
-
+mainURL="https://www.moneycontrol.com/mutualfundindia/"
+response = requests.get(mainURL)
+soup = BeautifulSoup(response.text,"lxml")
 mfRows=[]
+links=[]
+# Get Holdings Table
+amcClass=soup.findAll(attrs={'class':'amclink'})
+for div in amcClass:
+    links = div.findAll('a')
 
 
-for row in allFundsForAMC:
-     mfRows.append([row.text,row.get('href').split('/')[-1]])
+for amc in links:
+     #Trying out for Franklin - Getting equity 
+     
+     url = amc.get('href')
+     print("Adding for"+url)
+     response = requests.get(url)
+
+     soupAmc = BeautifulSoup(response.text,"html.parser")
+
+     
+
+     allFundsForAMC=soupAmc.findAll("a",attrs={'class':'arial11blue'})
+     for row in allFundsForAMC:
+          mfRows.append([row.text,row.get('href').split('/')[-1]])
 
 
 headers=["Fund Name","URL Tag"]

@@ -1,4 +1,607 @@
 Fund Name,URL Tag
+ABSL AA Multi-Mgr FoF (G),MIO005
+ABSL AA Multi-Mgr FoF- Dir (G),MIN391
+ABSL Active Debt MM (G),MIO027
+ABSL Active Debt MM -Direct (G),MIN393
+ABSL Arbitrage Fund (G),MBS468
+ABSL Arbitrage Fund - D (G),MBS917
+ABSL BAF (G),MIN007
+ABSL BAF - Direct (G),MIN389
+ABSL Bank&Financial Ser -DP (G),MBS1453
+ABSL Bank&Financial Ser -RP (G),MBS1451
+ABSL Banking & PSU Debt (DAP),MBS467
+ABSL Banking & PSU Debt (G),MBS351
+ABSL Banking & PSU Debt - RP (G),MAC029
+ABSL Banking & PSU Debt- D (G),MBS905
+ABSL Comm Eqty-GAP -Direct (G),MBS853
+ABSL Comm Eqty-GAP -RP (G),MBS397
+ABSL Corporate Bond Fund (DAP),MBS437
+ABSL Corporate Bond Fund (G),MAC003
+ABSL Corporate Bond Fund - D (G),MBS900
+ABSL CPOF Sr-22 (1100D)-DP (G),MBS1904
+ABSL CPOF Sr-22 (1100D)-RP (G),MBS1903
+ABSL CPOF Sr-29 (1280D)-DP (G),MBS2154
+ABSL CPOF Sr-29 (1280D)-RP (G),MBS2153
+ABSL CPOF Sr-30 (1133D)-DP (G),MBS2216
+ABSL CPOF Sr-30 (1133D)-RP (G),MBS2215
+ABSL Credit Risk Fund (G),MBS2049
+ABSL Credit Risk Fund - D (G),MBS2052
+ABSL Digital India Fund (G),MAC025
+ABSL Digital India Fund - D (G),MBS843
+ABSL Dividend Yield Fund (G),MBS030
+ABSL Dividend Yield Fund - D (G),MBS809
+ABSL Dynamic Bond - D (G),MBS877
+ABSL Dynamic Bond - RP (G),MBS071
+ABSL Equity Advantage Fund (G),MBS022
+ABSL Equity Advantage Fund - D (G),MBS807
+ABSL Equity Fund (G),MAC006
+ABSL Equity Fund -Direct (G),MBS811
+ABSL Equity Hybrid '95 Fund (G),MAC001
+ABSL Equity Hybrid '95 Fund - D (G),MBS849
+ABSL Equity Savings Fund-DP (G),MBS1975
+ABSL Equity Savings Fund-RP (G),MBS1973
+ABSL Focused Equity Fund (G),MBS089
+ABSL Focused Equity Fund - D (G),MBS837
+ABSL FP FOF - Aggressive (G),MIO051
+ABSL FP FOF - Conservative (G),MIO047
+ABSL FP FOF - Prudent (G),MIO049
+ABSL FP FOF - Prudent -Dir (G),MIN377
+ABSL FP FOF-Aggressive -Dir (G),MIN383
+ABSL FP FOF-Conservative-DP (G),MIN379
+ABSL FRF - LTP (G),MBS460
+ABSL FRF - LTP - D (G),MBS871
+ABSL FRF - LTP - RP (G),MBS043
+ABSL Frontline Eqty-Direct (G),MBS813
+ABSL Frontline Equity (G),MAC031
+ABSL FTP Sr-OE (1153D) - Dir (G),MBS2355
+ABSL FTP Sr-OE (1153D) - RP (G),MBS2352
+ABSL FTP Sr-OF (1151D) - Dir (G),MBS2333
+ABSL FTP Sr-OF (1151D) - RP (G),MBS2330
+ABSL FTP Sr-OG (1146D) - Dir (G),MBS2339
+ABSL FTP Sr-OG (1146D) - RP (G),MBS2336
+ABSL FTP Sr-OH (1120D) - Dir (G),MBS2345
+ABSL FTP Sr-OH (1120D) - RP (G),MBS2342
+ABSL FTP Sr-OI (1120D) - Dir (G),MBS2361
+ABSL FTP Sr-OI (1120D) - RP (G),MBS2358
+ABSL FTP Sr-OJ (1136D) - Dir (G),MBS2367
+ABSL FTP Sr-OJ (1136D) - RP (G),MBS2364
+ABSL FTP Sr-OK (1135D) - Dir (G),MBS2373
+ABSL FTP Sr-OK (1135D) - RP (G),MBS2370
+ABSL FTP Sr-OL (1148D) - Dir (G),MBS2379
+ABSL FTP Sr-OL (1148D) - RP (G),MBS2376
+ABSL FTP Sr-OM (1146D) - Dir (G),MBS2385
+ABSL FTP Sr-OM (1146D) - RP (G),MBS2382
+ABSL FTP Sr-ON (1120D) - Dir (G),MBS2391
+ABSL FTP Sr-ON (1120D) - RP (G),MBS2388
+ABSL FTP Sr-OO (1098D) - Dir (G),MBS2397
+ABSL FTP Sr-OO (1098D) - RP (G),MBS2394
+ABSL FTP Sr-OP (1105D) - Dir (G),MBS2403
+ABSL FTP Sr-OP (1105D) - RP (G),MBS2400
+ABSL FTP Sr-OQ (1113D) - Dir (G),MBS2409
+ABSL FTP Sr-OQ (1113D) - RP (G),MBS2406
+ABSL FTP Sr-OR (1124D) - Dir (G),MBS2419
+ABSL FTP Sr-OR (1124D) - RP (G),MBS2416
+ABSL FTP Sr-OS (1105D) - Dir (G),MBS2425
+ABSL FTP Sr-OS (1105D) - RP (G),MBS2422
+ABSL FTP Sr-OT (1117D) - Dir (G),MBS2431
+ABSL FTP Sr-OT (1117D) - RP (G),MBS2428
+ABSL FTP Sr-OW (1245D) - Dir (G),MBS2441
+ABSL FTP Sr-OW (1245D) - RP (G),MBS2438
+ABSL FTP Sr-OX (1234D) - Dir (G),MBS2447
+ABSL FTP Sr-OX (1234D) - RP (G),MBS2444
+ABSL FTP Sr-OY (1218D) - Dir (G),MBS2453
+ABSL FTP Sr-OY (1218D) - RP (G),MBS2450
+ABSL FTP Sr-OZ (1187D) - Dir (G),MBS2459
+ABSL FTP Sr-OZ (1187D) - RP (G),MBS2456
+ABSL FTP Sr-PA (1177D) - Dir (G),MBS2465
+ABSL FTP Sr-PA (1177D) - RP (G),MBS2462
+ABSL FTP Sr-PB (1190D) - Dir (G),MBS2471
+ABSL FTP Sr-PB (1190D) - RP (G),MBS2468
+ABSL FTP Sr-PC (1169D) - Dir (G),MBS2477
+ABSL FTP Sr-PC (1169D) - RP (G),MBS2474
+ABSL FTP Sr-PD (1177D) - Dir (G),MBS2483
+ABSL FTP Sr-PD (1177D) - RP (G),MBS2480
+ABSL FTP Sr-PE (1159D) - Dir (G),MBS2511
+ABSL FTP Sr-PE (1159D) - RP (G),MBS2508
+ABSL FTP Sr-PF (1148D) - Dir (G),MBS2489
+ABSL FTP Sr-PF (1148D) - RP (G),MBS2486
+ABSL FTP Sr-PG (1148D) - Dir (G),MBS2499
+ABSL FTP Sr-PG (1148D) - RP (G),MBS2496
+ABSL FTP Sr-PH (1143D) - Dir (G),MBS2505
+ABSL FTP Sr-PH (1143D) - RP (G),MBS2502
+ABSL FTP Sr-PI (1140D) - Dir (G),MBS2517
+ABSL FTP Sr-PI (1140D) - RP (G),MBS2514
+ABSL FTP Sr-PJ (1135D) - Dir (G),MBS2523
+ABSL FTP Sr-PJ (1135D) - RP (G),MBS2520
+ABSL FTP Sr-PK (1132D) - Dir (G),MBS2529
+ABSL FTP Sr-PK (1132D) - RP (G),MBS2526
+ABSL FTP Sr-PM (1141D) - Dir (G),MBS2535
+ABSL FTP Sr-PM (1141D) - RP (G),MBS2532
+ABSL FTP Sr-PN (1135D) - Dir (G),MBS2551
+ABSL FTP Sr-PN (1135D) - RP (G),MBS2548
+ABSL FTP Sr-PO (1140D) - Dir (G),MBS2541
+ABSL FTP Sr-PO (1140D) - RP (G),MBS2538
+ABSL FTP Sr-PP (369D) - Dir (G),MBS2557
+ABSL FTP Sr-PP (369D) - RP (G),MBS2554
+ABSL FTP Sr-PQ (91D) - Dir (G),MBS2563
+ABSL FTP Sr-PQ (91D) - RP (G),MBS2560
+ABSL FTP Sr-PR (1134D) - Dir (G),MBS2569
+ABSL FTP Sr-PR (1134D) - RP (G),MBS2566
+ABSL FTP Sr-PS (1099D) - Dir (G),MBS2575
+ABSL FTP Sr-PS (1099D) - RP (G),MBS2572
+ABSL FTP Sr-PT (1100D) - Dir (G),MBS2581
+ABSL FTP Sr-PT (1100D) - RP (G),MBS2578
+ABSL FTP Sr-PU (1463D) - DP (G),MBS2587
+ABSL FTP Sr-PU (1463D) - RP (G),MBS2584
+ABSL FTP Sr-PV (1462D) - DP (G),MBS2593
+ABSL FTP Sr-PV (1462D) - RP (G),MBS2590
+ABSL FTP Sr-PW (1100D) - DP (G),MBS2599
+ABSL FTP Sr-PW (1100D) - RP (G),MBS2596
+ABSL FTP Sr-PX (1100D) - DP (G),MBS2605
+ABSL FTP Sr-PX (1100D) - RP (G),MBS2602
+ABSL FTP Sr-PY (1409D) - DP (G),MBS2611
+ABSL FTP Sr-PY (1409D) - RP (G),MBS2608
+ABSL FTP Sr-PZ (1120D) - DP (G),MBS2617
+ABSL FTP Sr-PZ (1120D) - RP (G),MBS2614
+ABSL FTP Sr-QA (181D) - DP (G),MBS2623
+ABSL FTP Sr-QA (181D) - RP (G),MBS2620
+ABSL FTP Sr-QB (1113D) - DP (G),MBS2629
+ABSL FTP Sr-QB (1113D) - RP (G),MBS2626
+ABSL FTP Sr-QC (1116D) - DP (G),MBS2635
+ABSL FTP Sr-QC (1116D) - RP (G),MBS2632
+ABSL FTP Sr-QD (91D) - DP (G),MBS2641
+ABSL FTP Sr-QD (91D) - RP (G),MBS2638
+ABSL FTP Sr-QE (1101D) - DP (G),MBS2647
+ABSL FTP Sr-QE (1101D) - RP (G),MBS2644
+ABSL FTP Sr-QF (1385D) - DP (G),MBS2653
+ABSL FTP Sr-QF (1385D) - RP (G),MBS2650
+ABSL FTP Sr-QG (1100D) - DP (G),MBS2659
+ABSL FTP Sr-QG (1100D) - RP (G),MBS2656
+ABSL FTP Sr-QH (1101D) - DP (G),MBS2665
+ABSL FTP Sr-QH (1101D) - RP (G),MBS2662
+ABSL FTP Sr-QI (1100D) - DP (G),MBS2671
+ABSL FTP Sr-QI (1100D) - RP (G),MBS2668
+ABSL FTP Sr-QJ (1098D) - DP (G),MBS2677
+ABSL FTP Sr-QJ (1098D) - RP (G),MBS2674
+ABSL FTP Sr-QK (1099D) - DP (G),MBS2683
+ABSL FTP Sr-QK (1099D) - RP (G),MBS2680
+ABSL FTP Sr-QL (1099D) - DP (G),MBS2689
+ABSL FTP Sr-QL (1099D) - RP (G),MBS2686
+ABSL FTP Sr-QM (1100D) - DP (G),MBS2701
+ABSL FTP Sr-QM (1100D) - RP (G),MBS2698
+ABSL FTP Sr-QN (1100D) - DP (G),MBS2695
+ABSL FTP Sr-QN (1100D) - RP (G),MBS2692
+ABSL FTP Sr-QO (1100D) - DP (G),MBS2707
+ABSL FTP Sr-QO (1100D) - RP (G),MBS2704
+ABSL FTP Sr-QP (1100D) - DP (G),MBS2713
+ABSL FTP Sr-QP (1100D) - RP (G),MBS2710
+ABSL FTP Sr-QQ (1100D) - DP (G),MBS2749
+ABSL FTP Sr-QQ (1100D) - RP (G),MBS2746
+ABSL FTP Sr-QS (1100D) - DP (G),MBS2719
+ABSL FTP Sr-QS (1100D) - RP (G),MBS2716
+ABSL FTP Sr-QT (1100D) - DP (G),MBS2725
+ABSL FTP Sr-QT (1100D) - RP (G),MBS2722
+ABSL FTP Sr-QU (1100D) - DP (G),MBS2731
+ABSL FTP Sr-QU (1100D) - RP (G),MBS2728
+ABSL FTP Sr-QV (1100D) - DP (G),MBS2737
+ABSL FTP Sr-QV (1100D) - RP (G),MBS2734
+ABSL FTP Sr-QW (1099D) - DP (G),MBS2743
+ABSL FTP Sr-QW (1099D) - RP (G),MBS2740
+ABSL FTP Sr-QX (1103D) - DP (G),MBS2755
+ABSL FTP Sr-QX (1103D) - RP (G),MBS2752
+ABSL FTP Sr-QY (1100D) - DP (G),MBS2761
+ABSL FTP Sr-QY (1100D) - RP (G),MBS2758
+ABSL Global Commodities (G),MIN289
+ABSL Global Commodities-Dir (G),MIN356
+ABSL Global Real Estate -RP (G),MIN168
+ABSL Global Real Estate-Dir (G),MIN375
+ABSL Gold Fund (G),MBS684
+ABSL Gold Fund -Direct (G),MBS909
+ABSL Government Securities Fund (G),MBS011
+ABSL Government Securities Fund - D (G),MBS880
+ABSL Income Fund (DAP),MBS438
+ABSL Income Fund (G),MBS003
+ABSL Income Fund - D (G),MBS888
+ABSL Index Fund (G),MBS025
+ABSL Index Fund -Direct (G),MBS851
+ABSL India GenNext (G),MBS087
+ABSL India GenNext-Direct (G),MBS815
+ABSL Infrastructure (G),MBS094
+ABSL Infrastructure -Direct (G),MBS821
+ABSL Intl. Equity - A (G),MBS203
+ABSL Intl. Equity - B (G),MBS205
+ABSL Intl. Equity A -Direct (G),MBS823
+ABSL Intl. Equity B -Direct (G),MBS825
+ABSL Liquid Fund (DAP),MBS465
+ABSL Liquid Fund (G),MBS059
+ABSL Liquid Fund - D (G),MBS922
+ABSL Liquid Fund - IP (G),MBS035
+ABSL Liquid Fund - RP (G),MBS004
+ABSL Low Duration Fund (G),MAC005
+ABSL Low Duration Fund - D (G),MBS919
+ABSL Low Duration Fund - IP (G),MAC033
+ABSL Manufacturing Equity - DP (G),MBS2001
+ABSL Manufacturing Equity - RP (G),MBS1999
+ABSL Medium Term Plan - D (G),MBS893
+ABSL Medium Term Plan - IP (G),MBS454
+ABSL Medium Term Plan - RP (G),MBS448
+ABSL Midcap Fund (G),MBS027
+ABSL Midcap Fund -Direct (G),MBS829
+ABSL MNC Fund (G),MBS017
+ABSL MNC Fund -Direct (G),MBS839
+ABSL Money Manager Fund (G),MBS091
+ABSL Money Manager Fund - D (G),MBS874
+ABSL Money Manager Fund - RP (G),MBS041
+ABSL Nifty ETF,MBS589
+ABSL Nifty Next 50 ETF,MBS2916
+ABSL Pure Value - Direct (G),MBS831
+ABSL Pure Value Fund (G),MBS267
+ABSL Regular Savings Fund (G),MBS061
+ABSL Saving Fund (DAP),MBS466
+ABSL Savings Fund - D (G),MBS897
+ABSL Savings Fund - IP (G),MBS037
+ABSL Savings Fund - RP (G),MBS024
+ABSL Sensex ETF,MBS2291
+ABSL Short Term Opp-Direct (G),MBS902
+ABSL Short Term Opp-RP (G),MBS039
+ABSL Small Cap Fund (G),MBS104
+ABSL Small Cap Fund - D (G),MBS833
+ABSL Tax Plan (G),MBS099
+ABSL Tax Plan-Direct (G),MBS845
+ABSL Tax Relief '96 (G),MBS291
+ABSL Tax Relief '96-Direct (G),MBS847
+Birla Sun Life Gold ETF (G),MBS563
+Axis Arbitrage Fund-DP (G),MAA588
+Axis Arbitrage Fund-RP (G),MAA586
+Axis Banking & PSU Debt Fund (G),MAA165
+Axis Banking & PSU Debt Fund -Direct (G),MAA173
+Axis Bluechip Fund (G),MAA009
+Axis Bluechip Fund - D (G),MAA181
+Axis CBF Sr.1 - DP (G),MAA741
+Axis CBF Sr.1 - RP (G),MAA743
+Axis Children's Gift - Lock In - DP (G),MAA660
+Axis Children's Gift - Lock In - RP (G),MAA658
+Axis Children's Gift - No Lock In-DP (G),MAA672
+Axis Children's Gift - No Lock In-RP (G),MAA670
+Axis Corporate Debt Fund - DP (G),MAA718
+Axis Corporate Debt Fund - RP (G),MAA723
+Axis CPOF - Sr5 (42 Months) (G),MAA171
+Axis Credit Risk - Direct (G),MAA575
+Axis Credit Risk - Regular (G),MAA572
+Axis DEF - DP (G),MAA729
+Axis DEF - RP (G),MAA731
+Axis Dynamic Bond Fund (G),MAA105
+Axis Dynamic Bond Fund - Direct (G),MAA179
+Axis EAF - Sr. 1 - DP (G),MAA714
+Axis EAF - Sr. 1 - RP (G),MAA716
+Axis EAF - Sr. 2 - DP (G),MAA733
+Axis EAF - Sr. 2 - RP (G),MAA735
+Axis Equity Hybrid - DP (G),MAA765
+Axis Equity Hybrid - DP (QD),MAA768
+Axis Equity Hybrid - RP (G),MAA771
+Axis Equity Hybrid - RP (QD),MAA767
+Axis Equity Saver Fund - Direct (G),MAA638
+Axis Equity Saver Fund - Regular (G),MAA636
+Axis Focused 25 Fund (G),MAA169
+Axis Focused 25 Fund - Direct (G),MAA183
+Axis Gilt Fund (G),MAA135
+Axis Gilt Fund - Direct (G),MAA177
+Axis Gold ETF,MAA093
+Axis Gold Fund (G),MAA124
+Axis Gold Fund - Direct (G),MAA185
+Axis Liquid Fund (G),MAA001
+Axis Liquid Fund - Direct (G),MAA190
+Axis Liquid Fund - Retail (G),MAA025
+Axis Long Term Equity - Direct (G),MAA192
+Axis Long Term Equity Fund (G),MAA011
+Axis MCF - DP (G),MAA737
+Axis MCF - RP (G),MAA739
+Axis Mid Cap Fund (G),MAA099
+Axis Mid Cap Fund - Direct (G),MAA194
+Axis Nifty ETF,MAA717
+Axis Regular Saver Fund (G),MAA039
+Axis Regular Saver Fund - Direct (G),MAA189
+Axis Short Term Fund (G),MAA013
+Axis Short Term Fund - Direct (G),MAA196
+Axis Short Term Fund - Retail (G),MAA022
+Axis Small Cap Fund (G),MAA314
+Axis Small Cap Fund - Direct (G),MAA316
+Axis Strategic Bond Fund (G),MAA152
+Axis Strategic Bond Fund - D (G),MAA187
+Axis Treasury Advantage - Direct (G),MAA199
+Axis Treasury Advantage - RP (G),MAA029
+Axis Treasury Advantage -Reg. (G),MAA005
+Axis Triple Advantage - Direct (G),MAA203
+Axis Triple Advantage Fund (G),MAA091
+Axis Ultra Short Term - DP (G),MAA773
+Axis Ultra Short Term - RP (DDR),MAA795
+Axis Ultra Short Term - RP (G),MAA775
+Axis Ultra Short Term - RP (MD),MAA796
+Axis Ultra Short Term - RP (WD),MAA801
+Baroda Bank & Financial Serv. (Bonus),MBO162
+Baroda Bank & Financial Serv. (G),MBO078
+Baroda Pioneer Bank&Fin.-Direct (G),MBO107
+Baroda Pioneer CHF (G),MBO016
+Baroda Pioneer CHF - D (G),MBO099
+Baroda Pioneer Credit Risk Fund (G),MBO210
+Baroda Pioneer Credit Risk Fund - D (G),MBO215
+Baroda Pioneer Dyn Bond - (B),MBO164
+Baroda Pioneer Dyn Bond -Direct (G),MBO109
+Baroda Pioneer Dynamic Bond (G),MBO080
+Baroda Pioneer ELSS 96 - Plan B Dir (G),MBO225
+Baroda Pioneer ELSS 96 - Plan-A (G),MBO224
+Baroda Pioneer Gilt Fund (B),MBO166
+Baroda Pioneer Gilt Fund (G),MBO004
+Baroda Pioneer Gilt Fund-Direct (G),MBO086
+Baroda Pioneer Growth (G),MBO010
+Baroda Pioneer Growth -Direct (G),MBO088
+Baroda Pioneer Hybrid Equity Fund (G),MBO012
+Baroda Pioneer Hybrid Equity Fund - D (G,MBO083
+Baroda Pioneer Large Cap (G),MBO046
+Baroda Pioneer Large Cap - Direct (G),MBO092
+Baroda Pioneer Liquid (G),MBO006
+Baroda Pioneer Liquid -Direct (G),MBO094
+Baroda Pioneer Liquid -Plan A (G),MBO031
+Baroda Pioneer Mid-cap Fund (G),MBO050
+Baroda Pioneer Mid-cap Fund -Direct (G),MBO097
+Baroda Pioneer Short Term Bond (B),MBO182
+Baroda Pioneer Short Term Bond (G),MBO048
+Baroda Pioneer Short Term Bond-DP-B,MBO183
+Baroda Pioneer STBF - Direct (G),MBO103
+Baroda Pioneer TAF - Direct (G),MBO105
+Baroda Pioneer TAF - Plan A (G),MBO038
+Baroda Pioneer TAF - RP (G),MBO033
+Baroda USDF - DP - (G),MBO231
+Baroda USDF - RP - (G),MBO228
+BNP Paribas CBF - (G),MAB498
+BNP Paribas CBF - RP (G),MAB493
+BNP Paribas CBF -Dir (G),MAB752
+BNP Paribas Conser. Hybrid (G),MAB003
+BNP Paribas Conser. Hybrid - D (G),MAB730
+BNP Paribas Flexi Debt - Dir (G),MAB746
+BNP Paribas Flexi Debt - RP (G),MAB006
+BNP Paribas Flexi Debt - RP-A (G),MAB521
+BNP Paribas Govt. Sec. (G),MAB785
+BNP Paribas Govt. Sec.-Direct (G),MAB791
+BNP Paribas Large Cap Fund (G),MAB001
+BNP Paribas Large Cap Fund - D (G),MAB720
+BNP Paribas Liquid Fund - (G),MAB017
+BNP Paribas Liquid Fund - D (G),MAB738
+BNP Paribas Liquid Fund - IP (G),MAB019
+BNP Paribas Long Term Equity (G),MAB041
+BNP Paribas Long Term Equity-DP (G),MAB724
+BNP Paribas Low Duration (G),MAB038
+BNP Paribas Low Duration - D (G),MAB742
+BNP Paribas Low Duration - RP (G),MAB035
+BNP Paribas Medium Term Inc-DP (G),MAB859
+BNP Paribas Medium Term Inc-RP (G),MAB853
+BNP Paribas Mid Cap Fund (G),MAB045
+BNP Paribas Mid Cap Fund -Dir (G),MAB726
+BNP Paribas Multi Cap Fund (G),MAB024
+BNP Paribas Multi Cap Fund - D (G),MAB722
+BNP Paribas Overnight Fund - DP (G),MAB913
+BNP Paribas Overnight Fund - RP (G),MAB910
+BNP Paribas Short Term Fund  (G),MAB014
+BNP Paribas Short Term Fund  - RP (G),MAB012
+BNP Paribas Short Term Fund - D (G),MAB733
+BOI AXA Conservative Hybrid (G),MBA047
+BOI AXA Conservative Hybrid-D (G),MBA075
+BOI AXA Conservative Hybrid-E (G),MBA051
+BOI AXA Eqty Debt Rebalancer-DP (G),MBA139
+BOI AXA Eqty Debt Rebalancer-RP (G),MBA137
+BOI AXA Liquid Fund - Direct (G),MBA071
+BOI AXA Liquid Fund-RP (G),MBA001
+BOI AXA M & I Fund (G),MBA057
+BOI AXA M & I Fund - Direct (G),MBA068
+BOI AXA Short Term Income - (G),MBA037
+BOI AXA Short Term Income - D (G),MBA079
+BOI AXA Tax Advantage - Direct (G),MBA083
+BOI AXA Tax Advtg -Eco (G),MBA045
+BOI AXA Tax Advtg -RP (G),MBA043
+BOI Large & Mid Cap Equity - D (G),MBA064
+BOI Large & Mid Cap Equity - R (G),MBA025
+BOI Large & Mid Cap Equity-E (G),MBA028
+BOI Ultra Short Duration - D (G),MBA085
+BOI Ultra Short Duration - R (G),MBA013
+Can Gold Exchange Traded Fund,MCA191
+Can Robeco Dynamic Bond -Direct (G),MCA226
+Can Robeco Dynamic Bond-RP (G),MCA157
+Can Robeco Emer-Equities-Direct (G),MCA205
+Can Robeco Emerg-Equities (G),MCA033
+Can Robeco FMP Sr-7 (367D) A (G),MCA192
+Can Robeco FMP Sr-7 (396D) B (G),MCA194
+Can Robeco India Opport. Sr-2 - DP-(G),MCA278
+Can Robeco India Opport. Sr-2 - RP-(G),MCA276
+Can Robeco Infrastructure (G),MCA040
+Can Robeco Infrastructure-Direct(G),MCA214
+Canara Robeco Gold Sav.-Direct (G) ,MCA221
+Canara Robeco Gold Savings (G) ,MCA196
+CR Bluechip Equity Fund (G),MCA174
+CR Bluechip Equity Fund - D (G),MCA212
+CR Consumer Trends Fund (G),MCA163
+CR Consumer Trends Fund - D (G),MCA198
+CR Corporate Bond Fund (G),MCA260
+CR Corporate Bond Fund - D (G),MCA262
+CR Equity Diversified Fund (G),MCA022
+CR Equity Diversified Fund - D (G),MCA202
+CR Equity Hybrid Fund - DP - (G),MCA208
+CR Equity Hybrid Fund - RP - (G),MCA051
+CR Equity Tax Saver Fund (G),MCA152
+CR Equity Tax Saver Fund - D (G),MCA200
+CR Gilt Fund (G),MCA009
+CR Gilt Fund - D (G),MCA246
+CR Income Fund (G),MCA015
+CR Income Fund - D (G),MCA243
+CR Income Saver Fund (G),MCA012
+CR Income Saver Fund - D (G),MCA218
+CR Liquid Fund (G),MCA088
+CR Liquid Fund - D (G),MCA237
+CR Savings Fund (G),MCA031
+CR Savings Fund - D (G),MCA250
+CR Short Duration Fund (G) ,MCA186
+CR Short Duration Fund - D (G) ,MCA223
+CR Ultra Short Term Fund (G),MCA099
+CR Ultra Short Term Fund - D (G),MCA228
+DHFL Pramerica Arbitrage Fund-DP (G),MDE1261
+DHFL Pramerica Arbitrage Fund-RP (G),MDE1256
+DHFL Pramerica B&PSU Debt Fund-DP (G),MDE576
+DHFL Pramerica B&PSU Debt Fund-RP (G),MDE574
+DHFL Pramerica Credit Risk Fund (G),MDE1292
+DHFL Pramerica Credit Risk Fund - D (G),MPA051
+DHFL Pramerica Diversified Equity-DP (G),MPA159
+DHFL Pramerica Diversified Equity-RP (G),MPA157
+DHFL Pramerica Dynamic Bond Fund-DP (G),MPA048
+DHFL Pramerica Dynamic Bond Fund-RP (G),MPA034
+DHFL Pramerica EEF - (G),MDE120
+DHFL Pramerica EEF - DP - G,MDE504
+DHFL Pramerica Equity Savings (G),MDE031
+DHFL Pramerica Equity Savings - D (G),MDE551
+DHFL Pramerica Floating Rate (G),MDE269
+DHFL Pramerica Floating Rate - D (G),MDE544
+DHFL Pramerica GEO Fund-DP (G),MDE501
+DHFL Pramerica GEO Fund-RP (G),MDE284
+DHFL Pramerica Gilt Fund-DP (G),MDE498
+DHFL Pramerica Gilt Fund-RP (G),MDE229
+DHFL Pramerica Hybrid Debt Fund (G),MDE130
+DHFL Pramerica Hybrid Debt Fund - D (G),MDE516
+DHFL Pramerica Hybrid Equity (G),MDE029
+DHFL Pramerica Hybrid Equity - D (G),MDE513
+DHFL Pramerica Hybrid Equity - WP (G),MDE262
+DHFL Pramerica Insta Cash - IP (G) ,MDE039
+DHFL Pramerica Insta Cash Fund (G),MDE124
+DHFL Pramerica Insta Cash Fund - D (G) ,MDE506
+DHFL Pramerica Insta Cash Fund - R(G) ,MDE003
+DHFL Pramerica Large Cap Fund-DP (G),MDE487
+DHFL Pramerica Large Cap Fund-RP (G),MDE001
+DHFL Pramerica Large Cap Fund-WP (G),MDE260
+DHFL Pramerica Large Cap-Sr 2-DP (G),MDE1518
+DHFL Pramerica Large Cap-Sr 2-RP (G),MDE1516
+DHFL Pramerica Low Duration Fund-DP (G),MDE490
+DHFL Pramerica Low Duration Fund-IP (G),MDE159
+DHFL Pramerica Low Duration Fund-RP (G) ,MDE065
+DHFL Pramerica LTEF-(G),MPA161
+DHFL Pramerica LTEF-DP. (G),MPA163
+DHFL Pramerica Medium Term Fund - D (G),MDE953
+DHFL Pramerica Medium Term Fund(G),MDE951
+DHFL Pramerica Midcap Opp Fund-DP (G),MPA139
+DHFL Pramerica Midcap Opp Fund-Reg (G),MPA137
+DHFL Pramerica Premier Bond Fund-DP (G),MDE524
+DHFL Pramerica Premier Bond Fund-PP (G) ,MDE249
+DHFL Pramerica Premier Bond Fund-RP (G),MDE007
+DHFL Pramerica Short Maturity-DP (G),MDE529
+DHFL Pramerica Short Maturity-RP (G),MDE005
+DHFL Pramerica Tax Plan (G),MDE043
+DHFL Pramerica Tax Plan-DP (G),MDE535
+DHFL Pramerica Ultra Short Term Fund (G),MDE194
+DHFL Pramerica Ultra Short Term Fund-RP ,MDE026
+DHFL Pramerica Ultra Short Term-DP (G) ,MDE555
+DSP 10Y G-Sec Fund - Direct (G),MDS1119
+DSP 10Y G-Sec Fund - Regular (G),MDS1115
+DSP 3Y Close Ended Equity - DP (G),MDS1125
+DSP 3Y Close Ended Equity - RP (G),MDS1123
+DSP A.C.E Fund - Sr. 1 - Direct (G),MDS1276
+DSP A.C.E Fund - Sr. 1 - Regular (G),MDS1278
+DSP A.C.E Fund - Sr. 2 - Direct (G),MDS1316
+DSP A.C.E Fund - Sr. 2 - Regular (G),MDS1318
+DSP Arbitrage Fund - Direct (G),MDS1298
+DSP Arbitrage Fund - Regular (G),MDS1300
+DSP Banking & PSU Debt Fund - DP (G),MDS869
+DSP Banking & PSU Debt Fund - RP (G),MDS863
+DSP Bond Fund - Direct (G),MDS605
+DSP Bond Fund - Retail (G),MDS001
+DSP Corporate Bond Fund - Direct (G),MDS1471
+DSP Corporate Bond Fund - Regular (MD),MDS1476
+DSP Corporate Bond Fund - Regular (QD),MDS1477
+DSP Credit Risk - DP (G),MDS616
+DSP Credit Risk - RP-A (G),MDS027
+DSP Dynamic Asset Allocation - DP (G),MDS961
+DSP Dynamic Asset Allocation - RP (G),MDS959
+DSP Equal Nifty 50 Fund - Direct (G),MDS1272
+DSP Equal Nifty 50 Fund - Regular (G),MDS1274
+DSP Equity & Bond Fund - Direct (G),MDS608
+DSP Equity & Bond Fund - Regular (G),MDS005
+DSP Equity Fund - Direct (G),MDS590
+DSP Equity Fund - Regular (G),MDS078
+DSP Equity Opportunities - Direct (G),MDS580
+DSP Equity Opportunities - Reg (G),MDS011
+DSP Equity Savings Fund - Direct (G),MDS1203
+DSP Equity Savings Fund - Regular (G),MDS1199
+DSP Focus Fund - Direct (G),MDS588
+DSP Focus Fund - Regular(G),MDS281
+DSP Global Allocation Fund - DP (G),MDS1105
+DSP Global Allocation Fund - RP (G),MDS1103
+DSP Government Securities - DP (G),MDS622
+DSP Government Securities - RP (G),MDS007
+DSP India TIGER Fund - Direct (G),MDS586
+DSP India TIGER Fund - Regular (G),MDS039
+DSP Liquid ETF - RP (G),MDS1331
+DSP Liquidity Fund - Direct (G),MDS613
+DSP Liquidity Fund - Regular (G),MDS047
+DSP Low Duration Fund - Direct (G),MDS1162
+DSP Low Duration Fund - Regular (G),MDS1157
+DSP Mid Cap - Direct (G),MDS574
+DSP Mid Cap - Regular (G),MDS056
+DSP Natural Resources - Regular (G),MDS160
+DSP Natural Resourses - Direct (G),MDS582
+DSP Regular Savings Fund - Direct (G),MDS610
+DSP Regular Savings Fund - Regular (G),MDS036
+DSP Savings Fund - Direct (G),MDS602
+DSP Savings Fund - Regular (G),MDS015
+DSP Short Term Fund - Direct (G),MDS576
+DSP Short Term Fund - Regular (G),MDS016
+DSP Small Cap Fund - Direct (G),MDS584
+DSP Small Cap Fund - Regular (G),MDS076
+DSP Strategic Bond Fund - Direct (G),MDS630
+DSP Strategic Bond Fund - IP (G),MDS073
+DSP Tax Saver Fund - Direct (G),MDS572
+DSP Tax Saver Fund - Regular (G),MDS060
+DSP Top 100 Equity Fund - Direct (G),MDS568
+DSP Top 100 Equity Fund - Regular (G),MDS018
+DSP Ultra Short Fund - DP (G),MDS625
+DSP Ultra Short Fund - RP (G),MDS050
+DSP US Flexible Equity Fund - DP (G),MDS600
+DSP US Flexible Equity Fund - RP (G),MDS532
+DSP World Agriculture Fund - DP (G),MDS598
+DSP World Agriculture Fund - RP (G),MDS408
+DSP World Energy Fund - Direct (G),MDS596
+DSP World Energy Fund - Regular (G),MDS265
+DSP World Gold Fund - Direct (G),MDS594
+DSP World Gold Fund - Regular (G),MDS107
+DSP World Mining Fund - Direct (G),MDS592
+DSP World Mining Fund - Regular (G),MDS273
+Edelweiss Arbitrage Fund  - Dir (G),MEW116
+Edelweiss Arbitrage Fund - Reg (G),MEW113
+Edelweiss BAF - (G),MEW051
+Edelweiss BAF - Dir. (G),MEW092
+Edelweiss Equity Savings (MD),MJP334
+Edelweiss Large Cap - A (G),MEW041
+Edelweiss Large Cap - B (G),MEW043
+Edelweiss Large Cap - C (G),MEW045
+Edelweiss Large Cap - Direct (G),MEW090
+Edelweiss LF - Direct (WD),MJP345
+Edelweiss Low Duration - SIP (G),MJP026
+Edelweiss Low Duration Fund - (GD),MJP005
+Edelweiss Low Duration Fund - D (G),MJP121
+Edelweiss Low Duration Fund - D (MD),MJP336
+Edelweiss LT Equity Fund (G),MEW039
+Edelweiss LT Equity Fund - Direct (G),MEW088
+Edelweiss Multi-Asset Allocation (G),MEW053
+Edelweiss Multi-Asset Allocation - B (G),MEW047
+Edelweiss Multi-Asset Allocation - D (G),MEW086
+Edelweiss Short Term Fund (G),MJP034
+Edelweiss STF- Direct (G),MJP113
+Essel 3 in 1 Fund (G),MPM031
+Essel 3 in 1 Fund - Direct (G),MPM045
+Essel Large Cap Equity (G),MPM034
+Essel Large Cap Equity - D (G),MPM040
+Essel Liquid Fund (G),MPM009
+Essel Liquid Fund - Direct (G),MPM059
+Essel Regular Savings (G),MPM025
+Essel Regular Savings - Direct (G),MPM042
+Essel Short Term - Direct (G),MPM048
+Essel Short Term Fund (G),MPM027
+Essel Ultra Short Term -SIP (G),MPM021
+Essel USTF - Direct (G),MPM051
 FI FMP - Sr.1 -  A - (1108D) -Dir. (D),MTE407
 FI FMP - Sr.1 -  A - (1108D) -Dir. (G),MTE406
 FI FMP - Sr.1 -  A - (1108D) -Dir. (QD),MTE408
@@ -183,3 +786,1680 @@ Templeton (I) Equity Income (G),MTE092
 Templeton (I) Equity Income - Dir (G),MTE297
 Templeton India Value Fund (G),MTE024
 Templeton India Value Fund - D (G),MTE295
+HDFC Arbitrage Fund - Direct (G),MHD1171
+HDFC Arbitrage Fund - RP (G),MHD225
+HDFC Arbitrage Fund - WP (G),MHD228
+HDFC Arbitrage Fund - WP - DP (G),MHD2147
+HDFC Balanced Advantage Fund (G),MHD001
+HDFC Balanced Advantage Fund - D (G),MHD1146
+HDFC Banking & PSU Debt - Reg (G),MHD2059
+HDFC Banking & PSU Debt -Direct (G),MHD2061
+HDFC Capital Builder Value Fund (G),MZU016
+HDFC Capital Builder Value Fund - D (G),MHD1148
+HDFC Childrens Gift (Inv),MHD011
+HDFC Childrens Gift - Direct (Inv),MHD1175
+HDFC Corporate Bond Fund (G),MHD686
+HDFC Corporate Bond Fund - D (G),MHD1209
+HDFC Credit Risk Debt Fund (G),MHD1997
+HDFC Credit Risk Debt Fund - D (G),MHD1999
+HDFC Dynamic Debt Fund (G),MZU008
+HDFC Dynamic Debt Fund - D (G),MHD1199
+HDFC Dynamic PE Ratio FOF (G),MMS019
+HDFC Dynamic PE Ratio FOF -DP (G),MMS038
+HDFC Equity Fund (G),MZU001
+HDFC Equity Fund - Direct (G),MHD1144
+HDFC Equity Savings Fund (G),MHD046
+HDFC Equity Savings Fund - Direct Plan (,MHD1217
+HDFC Floating Rate Debt Fund - DP (G),MHD1188
+HDFC Floating Rate Debt Fund - RP (G),MHD024
+HDFC Floating Rate Debt Fund - WP (G),MHD247
+HDFC FMP 1099D June-18 Sr-41 (1) DP-G,MHD3212
+HDFC FMP 1099D June-18 Sr-41 (1) RP-G,MHD3209
+HDFC FMP 1105D Aug-18 Sr-42 (1) DP-G,MHD3236
+HDFC FMP 1105D Aug-18 Sr-42 (1) RP-G,MHD3233
+HDFC FMP 1113D Aug-18 Sr-42 (1) DP-G,MHD3242
+HDFC FMP 1113D Aug-18 Sr-42 (1) RP-G,MHD3239
+HDFC FMP 1113D June-18 Sr-41 (1) DP-G,MHD3206
+HDFC FMP 1113D June-18 Sr-41 (1) RP-G,MHD3203
+HDFC FMP 1119D June-18 Sr-40 (1) DP-G,MHD3188
+HDFC FMP 1119D June-18 Sr-40 (1) RP-G,MHD3185
+HDFC FMP 1122D July-18 Sr-41 (1) DP-G,MHD3218
+HDFC FMP 1122D July-18 Sr-41 (1) RP-G,MHD3215
+HDFC FMP 1122D March-17 Sr-37 (1) DP-G,MHD3034
+HDFC FMP 1122D March-17 Sr-37 (1) RP-G,MHD3031
+HDFC FMP 1124D June-18 Sr-41 (1) DP-G,MHD3200
+HDFC FMP 1124D June-18 Sr-41 (1) RP-G,MHD3197
+HDFC FMP 1133D July-18 Sr-41 (1) DP-G,MHD3224
+HDFC FMP 1133D July-18 Sr-41 (1) RP-G,MHD3221
+HDFC FMP 1134D May-18 Sr-40 (1) DP-G,MHD3182
+HDFC FMP 1134D May-18 Sr-40 (1) RP-G,MHD3179
+HDFC FMP 1136D June-17 Sr-38 (1) DP-G,MHD3078
+HDFC FMP 1136D June-17 Sr-38 (1) RP-G,MHD3075
+HDFC FMP 1141D Aug-18 Sr-42 (1) DP-G,MHD3230
+HDFC FMP 1141D Aug-18 Sr-42 (1) RP-G,MHD3227
+HDFC FMP 1143D Feb-17 Sr-37 (1) DP-G,MHD3006
+HDFC FMP 1143D Feb-17 Sr-37 (1) RP-G,MHD3003
+HDFC FMP 1143D Mar-18 Sr-39 (1) DP-G,MHD3134
+HDFC FMP 1143D Mar-18 Sr-39 (1) RP-G,MHD3131
+HDFC FMP 1145D Mar-18 Sr-39 (1) DP-G,MHD3128
+HDFC FMP 1145D Mar-18 Sr-39 (1) RP-G,MHD3125
+HDFC FMP 1146D Apr-18 Sr-40 (1) DP-G,MHD3158
+HDFC FMP 1146D Apr-18 Sr-40 (1) RP-G,MHD3155
+HDFC FMP 1147D Mar-18 Sr-39 (1) DP-G,MHD3122
+HDFC FMP 1147D Mar-18 Sr-39 (1) RP-G,MHD3119
+HDFC FMP 1150D Feb-17 Sr-37 (1) DP-G,MHD3012
+HDFC FMP 1150D Feb-17 Sr-37 (1) RP-G,MHD3009
+HDFC FMP 1150D Mar-18 Sr-39 (1) DP-G,MHD3110
+HDFC FMP 1150D Mar-18 Sr-39 (1) RP-G,MHD3107
+HDFC FMP 1155D Feb-17 Sr-37 (1) DP-G,MHD3000
+HDFC FMP 1155D Feb-17 Sr-37 (1) RP-G,MHD2997
+HDFC FMP 1158D April-17 Sr-38 (1) DP-G,MHD3062
+HDFC FMP 1158D April-17 Sr-38 (1) RP-G,MHD3059
+HDFC FMP 1158D Feb-18 Sr-38 (1) DP-G,MHD3098
+HDFC FMP 1158D Feb-18 Sr-38 (1) RP-G,MHD3095
+HDFC FMP 1165D April-17 Sr-38 (1) DP-G,MHD3052
+HDFC FMP 1165D April-17 Sr-38 (1) RP-G,MHD3049
+HDFC FMP 1166D May-17 Sr-38 (1) DP-G,MHD3068
+HDFC FMP 1166D May-17 Sr-38 (1) RP-G,MHD3065
+HDFC FMP 1170D Feb-17 Sr-37 (1) DP-G,MHD3018
+HDFC FMP 1170D Feb-17 Sr-37 (1) RP-G,MHD3015
+HDFC FMP 1172D April-17 Sr-38 (1) DP-G,MHD3046
+HDFC FMP 1172D April-17 Sr-38 (1) RP-G,MHD3043
+HDFC FMP 1177D Mar-18 Sr-39 (1) DP-G,MHD3140
+HDFC FMP 1177D Mar-18 Sr-39 (1) RP-G,MHD3137
+HDFC FMP 1181D Apr-18 Sr-40 (1) DP-G,MHD3164
+HDFC FMP 1181D Apr-18 Sr-40 (1) RP-G,MHD3161
+HDFC FMP 1183D Apr-18 Sr-39 (1) DP-G,MHD3152
+HDFC FMP 1183D Apr-18 Sr-39 (1) RP-G,MHD3149
+HDFC FMP 1188D March-17 Sr-38 (1) DP-G,MHD3040
+HDFC FMP 1188D March-17 Sr-38 (1) RP-G,MHD3037
+HDFC FMP 1208D Mar-18 Sr-39 (1) DP-G,MHD3116
+HDFC FMP 1208D Mar-18 Sr-39 (1) RP-G,MHD3113
+HDFC FMP 1213D March-17 Sr-37 (1) DP-G,MHD3024
+HDFC FMP 1213D March-17 Sr-37 (1) RP-G,MHD3021
+HDFC FMP 1419D June-18 Sr-41 (1) DP-G,MHD3194
+HDFC FMP 1419D June-18 Sr-41 (1) RP-G,MHD3191
+HDFC FMP 1430D June-17 Sr-38 (1) DP-G,MHD3088
+HDFC FMP 1430D June-17 Sr-38 (1) RP-G,MHD3085
+HDFC FMP 1434D May-18 Sr-40 (1) DP-G,MHD3170
+HDFC FMP 1434D May-18 Sr-40 (1) RP-G,MHD3167
+HDFC FMP 91D Aug-18 Sr-42 (1) DP-G,MHD3254
+HDFC FMP 91D Aug-18 Sr-42 (1) RP-G,MHD3251
+HDFC FMP 92D Feb-18 Sr-39 (1) DP-G,MHD3104
+HDFC FMP 92D Feb-18 Sr-39 (1) RP-G,MHD3101
+HDFC FMP 92D Mar-18 Sr-39 (1) DP-G,MHD3146
+HDFC FMP 92D Mar-18 Sr-39 (1) RP-G,MHD3143
+HDFC FMP 97D May-18 Sr-40 (1) DP-G,MHD3176
+HDFC FMP 97D May-18 Sr-40 (1) RP-G,MHD3173
+HDFC Focused 30 - D (G),MHD1150
+HDFC Focused 30 Fund (G),MHD044
+HDFC Gilt Fund (G),MHD013
+HDFC Gilt Fund - D (G),MHD1192
+HDFC Gold Exchange Traded Fund,MHD679
+HDFC Gold Fund (G),MHD857
+HDFC Gold Fund - Direct (G),MHD1196
+HDFC Growth Opportunities Fund (G),MMS001
+HDFC Growth Opportunities Fund - D (G),MMS029
+HDFC Hybrid Debt Fund (G),MHD041
+HDFC Hybrid Debt Fund - D (G),MHD1211
+HDFC Hybrid Equity Fund (G),MHD048
+HDFC Hybrid Equity Fund - D (G),MHD1163
+HDFC Income Fund (G) ,MHD003
+HDFC Income Fund - Direct (G) ,MHD1203
+HDFC Index - Nifty 50 Plan,MHD019
+HDFC Index - Nifty 50 Plan - D,MHD1152
+HDFC Index - Sensex Plan,MHD020
+HDFC Index - Sensex Plan - D,MHD1153
+HDFC Infrastructure - Direct (G),MHD1155
+HDFC Infrastructure Fund (G),MHD283
+HDFC Liquid Fund (G),MHD007
+HDFC Liquid Fund - Direct (G),MHD1205
+HDFC Liquid Fund - PP (G),MHD026
+HDFC Long Term Advant. - Direct (G),MHD1157
+HDFC Long Term Advantage (G),MHD009
+HDFC Low Duration Fund - D (G),MHD1182
+HDFC Low Duration Fund - RP (G),MZU005
+HDFC Low Duration Fund - WP (G),MHD064
+HDFC Medium Term Debt Fund (G),MZU026
+HDFC Medium Term Debt Fund - D (G),MHD1197
+HDFC MidCap Opport.- Direct (G),MHD1161
+HDFC MidCap Opportunities (G),MHD068
+HDFC Money Market Fund (G),MZU006
+HDFC Money Market Fund - D (G) ,MHD1179
+HDFC Multi-Asset Fund (G),MHD050
+HDFC Multi-Asset Fund - D (G),MHD1219
+HDFC Nifty 50 ETF,MHD2722
+HDFC Overnight Fund (G),MZU028
+HDFC Overnight Fund - D (G),MHD1177
+HDFC Sensex ETF,MHD2723
+HDFC Short Term Debt Fund (G),MHD677
+HDFC Short Term Debt Fund - D (G),MHD1221
+HDFC Small Cap Fund  (G),MMS002
+HDFC Small Cap Fund - Direct (G),MMS025
+HDFC Tax Saver (G),MZU017
+HDFC Tax Saver - Direct (G),MHD1167
+HDFC Top 100 Fund (G),MZU009
+HDFC Top 100 Fund - D (G),MHD1169
+HSBC Asia Pacific (EJ) DYF- DP (G),MHS435
+HSBC Asia Pacific (EJ) DYF- RP (G),MHS433
+HSBC Brazil Fund (G),MHS301
+HSBC Brazil Fund - Direct (G),MHS363
+HSBC Cash Fund (G),MHS033
+HSBC Cash Fund - Direct (G),MHS359
+HSBC Cash Fund - RP (G),MHS007
+HSBC DF - DP (G),MHS338
+HSBC DF - RP (G),MHS005
+HSBC Equity Hybrid Fund - Direct (G),MHS514
+HSBC Equity Hybrid Fund - Regular (G),MHS516
+HSBC Flexi Debt Fund (G),MHS159
+HSBC Flexi Debt Fund - Direct (G),MHS348
+HSBC Flexi Debt Fund - RP (G),MHS157
+HSBC GEMF (G),MHS186
+HSBC GEMF - Direct (G),MHS355
+HSBC IEF (G),MHS052
+HSBC IEF - Direct (G),MHS323
+HSBC Large & Midcap Fund - Direct (G),MHS526
+HSBC Large & Midcap Fund - Regular (G),MHS528
+HSBC Large Cap Equity Fund (G),MHS001
+HSBC Large Cap Equity Fund - Direct (G),MHS353
+HSBC Low Duration Fund (G),MHS061
+HSBC Low Duration Fund - Direct (G),MHS315
+HSBC Low Duration Fund-Reg. Plan (G),MHS058
+HSBC Managed Sol. -Moderate- DP (G),MHS447
+HSBC Managed Sol. -Moderate- RP (G),MHS445
+HSBC Managed Sol.- Conserv.- DP (G),MHS451
+HSBC Managed Sol.- Conserv.- RP (G),MHS449
+HSBC Managed Sol.- Growth - DP (G),MHS443
+HSBC Managed Sol.- Growth - RP (G),MHS441
+HSBC Multi Cap Eq. (G),MHS025
+HSBC Multi Cap Eq. - Direct (G),MHS333
+HSBC RSF - Savings Plan (G),MHS030
+HSBC RSF Savings Plan - Direct (G),MHS325
+HSBC Short Duration Fund - RP (G),MHS003
+HSBC Short Duration Fund-Dir. (G),MHS335
+HSBC Small Cap Equity Fund (G),MHS048
+HSBC Small Cap Equity Fund - Direct (G),MHS331
+HSBC Tax Saver Equity -Direct (G),MHS319
+HSBC Tax Saver Equity Fund (G),MHS069
+ICICI Manufacture In India Fund - DP (G),MPI3945
+ICICI Manufacture In India Fund - RP (G),MPI3947
+ICICI PH&D (P.H.D) Fund - DP (G),MPI3737
+ICICI PH&D (P.H.D) Fund - RP (G),MPI3739
+ICICI Pru All Seasons Bond (G),MPI689
+ICICI Pru All Seasons Bond - D (G),MPI1152
+ICICI Pru All Seasons Bond - PP (G),MPI687
+ICICI Pru All Seasons Bond - RP (G),MPI034
+ICICI Pru Asset Allocator (G),MPI072
+ICICI Pru Asset Allocator - D (G),MPI1169
+ICICI Pru Balanced Adv (G),MPI126
+ICICI Pru Balanced Adv - Direct (G),MPI1142
+ICICI Pru Banking & Finserv (G),MPI447
+ICICI Pru Banking & Finserv - D (G),MPI1138
+ICICI Pru Banking & PSU Debt (G),MPI726
+ICICI Pru Banking & PSU Debt - D (G),MPI1260
+ICICI Pru Banking & PSU Debt - RP (G),MPI768
+ICICI Pru Bluechip Fund (G),MPI392
+ICICI Pru Bluechip Fund - D (G),MPI1134
+ICICI Pru Bluechip Fund - IO ,MPI394
+ICICI Pru Bond Fund (G),MPI501
+ICICI Pru Bond Fund - D (G),MPI1213
+ICICI Pru Bond Fund - IP (G),MPI504
+ICICI Pru Child Care Fund (Gift Plan),MPI026
+ICICI Pru Child Care Fund (Gift Plan) D,MPI1180
+ICICI Pru Constant Mat Gilt (G),MPI2237
+ICICI Pru Constant Mat Gilt- D (G),MPI2241
+ICICI Pru Corporate Bond Fund (G),MPI670
+ICICI Pru Corporate Bond Fund - D (G),MPI1234
+ICICI Pru Corporate Bond Fund - RP (G),MPI658
+ICICI Pru CPOF- Sr-XI-D-1247D-Dir (G),MPI3201
+ICICI Pru CPOF- Sr-XI-D-1247D-Reg (G),MPI3203
+ICICI Pru CPOF- Sr-XI-E-1222D-Dir (G),MPI3237
+ICICI Pru CPOF- Sr-XI-E-1222D-Reg (G),MPI3239
+ICICI Pru CPOF- Sr-XII-A-1168D-Dir (G),MPI3313
+ICICI Pru CPOF- Sr-XII-A-1168D-Reg (G),MPI3315
+ICICI Pru CPOF- Sr-XII-C-1270D-Dir (G),MPI3400
+ICICI Pru CPOF- Sr-XII-C-1270D-Reg (G),MPI3402
+ICICI Pru Credit Risk Fund (G),MPI789
+ICICI Pru Credit Risk Fund - D (G),MPI1229
+ICICI Pru Debt Management (G),MPI068
+ICICI Pru Debt Management - D (G),MPI1171
+ICICI Pru Dividend Yield Equity (G),MPI2056
+ICICI Pru Dividend Yield Equity - D (G),MPI2058
+ICICI Pru Eqty-Arbitrage-Direct (G),MPI1140
+ICICI Pru Equity Savings Fund (G),MPI2418
+ICICI Pru Equity Savings Fund - D (G),MPI2420
+ICICI Pru Equity-Arbitrage- IP (G),MPI124
+ICICI Pru Equity-Arbitrage- RP (G),MPI122
+ICICI Pru Exports & Services (D),MPI110
+ICICI Pru Exports & Services - D (G),MPI1122
+ICICI Pru Floating Interest (G),MPI119
+ICICI Pru Floating Interest - A (G),MPI092
+ICICI Pru Floating Interest - B (G),MPI048
+ICICI Pru Floating Interest - D (G),MPI1196
+ICICI Pru FMCG Fund (G),MPI004
+ICICI Pru FMCG Fund - D (G),MPI1120
+ICICI Pru FMP Sr-80 - 1118D X - Dir (G),MPI3265
+ICICI Pru FMP Sr-80 - 1118D X - Reg (G),MPI3267
+ICICI Pru FMP Sr-80 - 1125D S - Dir (G),MPI3245
+ICICI Pru FMP Sr-80 - 1125D S - Reg (G),MPI3247
+ICICI Pru FMP Sr-80 - 1131D P - Dir (G),MPI3225
+ICICI Pru FMP Sr-80 - 1131D P - Reg (G),MPI3227
+ICICI Pru FMP Sr-80 - 1133D O - Dir (G),MPI3221
+ICICI Pru FMP Sr-80 - 1133D O - Reg (G),MPI3223
+ICICI Pru FMP Sr-80 - 1138D R - Dir (G),MPI3229
+ICICI Pru FMP Sr-80 - 1138D R - Reg (G),MPI3231
+ICICI Pru FMP Sr-80 - 1150D N - Dir (G),MPI3217
+ICICI Pru FMP Sr-80 - 1150D N - Reg (G),MPI3219
+ICICI Pru FMP Sr-80 - 1214D V - Dir (G),MPI3257
+ICICI Pru FMP Sr-80 - 1214D V - Reg (G),MPI3259
+ICICI Pru FMP Sr-80 - 1215D Y - Dir (G),MPI3269
+ICICI Pru FMP Sr-80 - 1215D Y - Reg (G),MPI3271
+ICICI Pru FMP Sr-80 - 1216D U - Dir (G),MPI3253
+ICICI Pru FMP Sr-80 - 1216D U - Reg (G),MPI3255
+ICICI Pru FMP Sr-80 - 1216D W - Dir (G),MPI3261
+ICICI Pru FMP Sr-80 - 1216D W - Reg (G),MPI3263
+ICICI Pru FMP Sr-80 - 1225D T - Dir (G),MPI3249
+ICICI Pru FMP Sr-80 - 1225D T - Reg (G),MPI3251
+ICICI Pru FMP Sr-80 - 1227D Q - Dir (G),MPI3233
+ICICI Pru FMP Sr-80 - 1227D Q - Reg (G),MPI3235
+ICICI Pru FMP Sr-80 - 1238D M - Dir (G),MPI3213
+ICICI Pru FMP Sr-80 - 1238D M - Reg (G),MPI3215
+ICICI Pru FMP Sr-80 - 1245D L - Dir (G),MPI3209
+ICICI Pru FMP Sr-80 - 1245D L - Reg (G),MPI3211
+ICICI Pru FMP Sr-81 - 1100D O - Dir (G),MPI3354
+ICICI Pru FMP Sr-81 - 1100D O - Reg (G),MPI3356
+ICICI Pru FMP Sr-81 - 1100D R - Dir (G),MPI3374
+ICICI Pru FMP Sr-81 - 1100D R - Reg (G),MPI3376
+ICICI Pru FMP Sr-81 - 1100D V - Dir (G),MPI3394
+ICICI Pru FMP Sr-81 - 1100D V - Reg (G),MPI3396
+ICICI Pru FMP Sr-81 - 1100D W - Dir (G),MPI3404
+ICICI Pru FMP Sr-81 - 1100D W - Reg (G),MPI3406
+ICICI Pru FMP Sr-81 - 1101D C - Dir (G),MPI3285
+ICICI Pru FMP Sr-81 - 1101D C - Reg (G),MPI3287
+ICICI Pru FMP Sr-81 - 1101D E - Dir (G),MPI3293
+ICICI Pru FMP Sr-81 - 1101D E - Reg (G),MPI3295
+ICICI Pru FMP Sr-81 - 1116D I - Dir (G),MPI3317
+ICICI Pru FMP Sr-81 - 1116D I - Reg (G),MPI3319
+ICICI Pru FMP Sr-81 - 1119D U - Dir (G),MPI3390
+ICICI Pru FMP Sr-81 - 1119D U - Reg (G),MPI3392
+ICICI Pru FMP Sr-81 - 1133D T - Dir (G),MPI3382
+ICICI Pru FMP Sr-81 - 1133D T - Reg (G),MPI3384
+ICICI Pru FMP Sr-81 - 1141D N - Dir (G),MPI3345
+ICICI Pru FMP Sr-81 - 1141D N - Reg (G),MPI3347
+ICICI Pru FMP Sr-81 - 1142D S - Dir (G),MPI3378
+ICICI Pru FMP Sr-81 - 1142D S - Reg (G),MPI3380
+ICICI Pru FMP Sr-81 - 1143D M - Dir (G),MPI3341
+ICICI Pru FMP Sr-81 - 1143D M - Reg (G),MPI3343
+ICICI Pru FMP Sr-81 - 1147D L - Dir (G),MPI3337
+ICICI Pru FMP Sr-81 - 1147D L - Reg (G),MPI3339
+ICICI Pru FMP Sr-81 - 1150D K - Dir (G),MPI3333
+ICICI Pru FMP Sr-81 - 1150D K - Reg (G),MPI3335
+ICICI Pru FMP Sr-81 - 1154D J - Dir (G),MPI3325
+ICICI Pru FMP Sr-81 - 1154D J - Reg (G),MPI3327
+ICICI Pru FMP Sr-81 - 1162D P - Dir (G),MPI3366
+ICICI Pru FMP Sr-81 - 1162D P - Reg (G),MPI3368
+ICICI Pru FMP Sr-81 - 1163D Q - Dir (G),MPI3370
+ICICI Pru FMP Sr-81 - 1163D Q - Reg (G),MPI3372
+ICICI Pru FMP Sr-81 - 1178D H - Dir (G),MPI3309
+ICICI Pru FMP Sr-81 - 1178D H - Reg (G),MPI3311
+ICICI Pru FMP Sr-81 - 1185D G - Dir (G),MPI3305
+ICICI Pru FMP Sr-81 - 1185D G - Reg (G),MPI3307
+ICICI Pru FMP Sr-81 - 1190D F - Dir (G),MPI3301
+ICICI Pru FMP Sr-81 - 1190D F - Reg (G),MPI3303
+ICICI Pru FMP Sr-81 - 1195D D - Dir (G),MPI3289
+ICICI Pru FMP Sr-81 - 1195D D - Reg (G),MPI3291
+ICICI Pru FMP Sr-81 - 1205D B - Dir (G),MPI3281
+ICICI Pru FMP Sr-81 - 1205D B - Reg (G),MPI3283
+ICICI Pru FMP Sr-81 - 1211D A - Dir (G),MPI3277
+ICICI Pru FMP Sr-81 - 1211D A - Reg (G),MPI3279
+ICICI Pru FMP Sr-82 - 103D O - Dir (G),MPI3552
+ICICI Pru FMP Sr-82 - 103D O - Reg (G),MPI3556
+ICICI Pru FMP Sr-82 - 1119D X - Dir (G),MPI3640
+ICICI Pru FMP Sr-82 - 1119D X - Reg (G),MPI3644
+ICICI Pru FMP Sr-82 - 1126D W - Dir (G),MPI3620
+ICICI Pru FMP Sr-82 - 1126D W - Reg (G),MPI3624
+ICICI Pru FMP Sr-82 - 1135D S - Dir (G),MPI3576
+ICICI Pru FMP Sr-82 - 1135D S - Reg (G),MPI3580
+ICICI Pru FMP Sr-82 - 1135D U - Dir (G),MPI3592
+ICICI Pru FMP Sr-82 - 1135D U - Reg (G),MPI3596
+ICICI Pru FMP Sr-82 - 1135D V - Dir (G),MPI3600
+ICICI Pru FMP Sr-82 - 1135D V - Reg (G),MPI3604
+ICICI Pru FMP Sr-82 - 1136D P - Dir (G),MPI3560
+ICICI Pru FMP Sr-82 - 1136D P - Reg (G),MPI3564
+ICICI Pru FMP Sr-82 - 1141D Y - Dir (G),MPI3632
+ICICI Pru FMP Sr-82 - 1141D Y - Reg (G),MPI3636
+ICICI Pru FMP Sr-82 - 1157D J - Dir (G),MPI3512
+ICICI Pru FMP Sr-82 - 1157D J - Reg (G),MPI3516
+ICICI Pru FMP Sr-82 - 1170D R - Dir (G),MPI3568
+ICICI Pru FMP Sr-82 - 1170D R - Reg (G),MPI3572
+ICICI Pru FMP Sr-82 - 1175D Q - Dir (G),MPI3608
+ICICI Pru FMP Sr-82 - 1175D Q - Reg (G),MPI3612
+ICICI Pru FMP Sr-82 - 1185D I - Dir (G),MPI3496
+ICICI Pru FMP Sr-82 - 1185D I - Reg (G),MPI3500
+ICICI Pru FMP Sr-82 - 1185D M - Dir (G),MPI3536
+ICICI Pru FMP Sr-82 - 1185D M - Reg (G),MPI3540
+ICICI Pru FMP Sr-82 - 1185D N - Dir (G),MPI3544
+ICICI Pru FMP Sr-82 - 1185D N - Reg (G),MPI3548
+ICICI Pru FMP Sr-82 - 1199D L - Dir (G),MPI3520
+ICICI Pru FMP Sr-82 - 1199D L - Reg (G),MPI3524
+ICICI Pru FMP Sr-82 - 1203D K - Dir (G),MPI3504
+ICICI Pru FMP Sr-82 - 1203D K - Reg (G),MPI3508
+ICICI Pru FMP Sr-82 - 1215D H - Dir (G),MPI3484
+ICICI Pru FMP Sr-82 - 1215D H - Reg (G),MPI3488
+ICICI Pru FMP Sr-82 - 1217D C - Dir (G),MPI3436
+ICICI Pru FMP Sr-82 - 1217D C - Reg (G),MPI3440
+ICICI Pru FMP Sr-82 - 1219D D - Dir (G),MPI3444
+ICICI Pru FMP Sr-82 - 1219D D - Reg (G),MPI3448
+ICICI Pru FMP Sr-82 - 1223D E - Dir (G),MPI3460
+ICICI Pru FMP Sr-82 - 1223D E - Reg (G),MPI3464
+ICICI Pru FMP Sr-82 - 1223D G - Dir (G),MPI3476
+ICICI Pru FMP Sr-82 - 1223D G - Reg (G),MPI3480
+ICICI Pru FMP Sr-82 - 1225D B - Dir (G),MPI3428
+ICICI Pru FMP Sr-82 - 1225D B - Reg (G),MPI3432
+ICICI Pru FMP Sr-82 - 1236D A - Dir (G),MPI3415
+ICICI Pru FMP Sr-82 - 1236D A - Reg (G),MPI3417
+ICICI Pru FMP Sr-82 - 1887D F - Dir (G),MPI3468
+ICICI Pru FMP Sr-82 - 1887D F - Reg (G),MPI3472
+ICICI Pru FMP Sr-82 - 91D Z - Dir (G),MPI3649
+ICICI Pru FMP Sr-82 - 91D Z - Reg (G),MPI3653
+ICICI Pru FMP Sr-82 - 99D T - Dir (G),MPI3584
+ICICI Pru FMP Sr-82 - 99D T - Reg (G),MPI3588
+ICICI Pru FMP Sr-83 - 1100D O - Dir (G),MPI3786
+ICICI Pru FMP Sr-83 - 1100D O - Reg (G),MPI3790
+ICICI Pru FMP Sr-83 - 1100D R - Dir (G),MPI3803
+ICICI Pru FMP Sr-83 - 1100D R - Reg (G),MPI3807
+ICICI Pru FMP Sr-83 - 1100D S - Dir (G),MPI3811
+ICICI Pru FMP Sr-83 - 1100D S - Reg (G),MPI3815
+ICICI Pru FMP Sr-83 - 1100D X - Dir (G),MPI3856
+ICICI Pru FMP Sr-83 - 1100D X - Reg (G),MPI3860
+ICICI Pru FMP Sr-83 - 1101D Z - Dir (G),MPI3872
+ICICI Pru FMP Sr-83 - 1101D Z - Reg (G),MPI3876
+ICICI Pru FMP Sr-83 - 1103D L - Dir (G),MPI3750
+ICICI Pru FMP Sr-83 - 1103D L - Reg (G),MPI3754
+ICICI Pru FMP Sr-83 - 1103D N - Dir (G),MPI3770
+ICICI Pru FMP Sr-83 - 1103D N - Reg (G),MPI3774
+ICICI Pru FMP Sr-83 - 1105D A - Dir (G),MPI3657
+ICICI Pru FMP Sr-83 - 1105D A - Reg (G),MPI3661
+ICICI Pru FMP Sr-83 - 1105D F - Dir (G),MPI3697
+ICICI Pru FMP Sr-83 - 1105D F - Reg (G),MPI3701
+ICICI Pru FMP Sr-83 - 1105D M - Dir (G),MPI3758
+ICICI Pru FMP Sr-83 - 1105D M - Reg (G),MPI3762
+ICICI Pru FMP Sr-83 - 1106D U - Dir (G),MPI3827
+ICICI Pru FMP Sr-83 - 1106D U - Reg (G),MPI3831
+ICICI Pru FMP Sr-83 - 1107D Q - Dir (G),MPI3795
+ICICI Pru FMP Sr-83 - 1107D Q - Reg (G),MPI3799
+ICICI Pru FMP Sr-83 - 1108D H - Dir (G),MPI3713
+ICICI Pru FMP Sr-83 - 1108D H - Reg (G),MPI3717
+ICICI Pru FMP Sr-83 - 1110D T - Dir (G),MPI3819
+ICICI Pru FMP Sr-83 - 1110D T - Reg (G),MPI3823
+ICICI Pru FMP Sr-83 - 1111D Y - Dir (G),MPI3864
+ICICI Pru FMP Sr-83 - 1111D Y - Reg (G),MPI3868
+ICICI Pru FMP Sr-83 - 1113D E - Dir (G),MPI3689
+ICICI Pru FMP Sr-83 - 1113D E - Reg (G),MPI3693
+ICICI Pru FMP Sr-83 - 1361D W - Dir (G),MPI3847
+ICICI Pru FMP Sr-83 - 1361D W - Reg (G),MPI3851
+ICICI Pru FMP Sr-83 - 1392D J - Dir (G),MPI3729
+ICICI Pru FMP Sr-83 - 1392D J - Reg (G),MPI3733
+ICICI Pru FMP Sr-83 - 1406D D - Dir (G),MPI3681
+ICICI Pru FMP Sr-83 - 1406D D - Reg (G),MPI3685
+ICICI Pru FMP Sr-83 - 1412D B - Dir (G),MPI3665
+ICICI Pru FMP Sr-83 - 1412D B - Reg (G),MPI3669
+ICICI Pru FMP Sr-83 - 1735D P - Dir (G),MPI3778
+ICICI Pru FMP Sr-83 - 1735D P - Reg (G),MPI3782
+ICICI Pru FMP Sr-83 - 193D G - Dir (G),MPI3705
+ICICI Pru FMP Sr-83 - 193D G - Reg (G),MPI3709
+ICICI Pru FMP Sr-83 - 204D V - Dir (G),MPI3835
+ICICI Pru FMP Sr-83 - 204D V - Reg (G),MPI3839
+ICICI Pru FMP Sr-83 - 91D C - Dir (G),MPI3673
+ICICI Pru FMP Sr-83 - 91D C - Reg (G),MPI3677
+ICICI Pru FMP Sr-83 - 94D K - Dir (G),MPI3741
+ICICI Pru FMP Sr-83 - 94D K - Reg (G),MPI3745
+ICICI Pru FMP Sr-83 - 99D I - Dir (G),MPI3721
+ICICI Pru FMP Sr-83 - 99D I - Reg (G),MPI3725
+ICICI Pru FMP Sr-84 - 1101D A - Dir (G),MPI3880
+ICICI Pru FMP Sr-84 - 1101D A - Reg (G),MPI3884
+ICICI Pru Focused Equity Fund - D (G),MPI1124
+ICICI Pru Focused Equity Fund - RP (G),MPI643
+ICICI Pru Gilt Fund (G),MPI008
+ICICI Pru Gilt Fund - D (G),MPI1203
+ICICI Pru Global Stable Eqty-RP (G),MPI1579
+ICICI Pru Global Stable Eqty-RP (G),MPI1577
+ICICI Pru Growth Fund-Sr3-DP (G),MPI2255
+ICICI Pru Infrastructure Fund (G),MPI108
+ICICI Pru Infrastructure Fund - D (G),MPI1148
+ICICI Pru Large & Mid Cap Fund (G),MPI003
+ICICI Pru Large & Mid Cap Fund - D (G),MPI1130
+ICICI Pru Liquid Fund (G),MPI115
+ICICI Pru Liquid Fund - D (G),MPI1216
+ICICI Pru Liquid Fund - IP,MPI134
+ICICI Pru Liquid Fund - RP (G),MPI001
+ICICI Pru Long Term Bond Fund (G),MPI005
+ICICI Pru Long Term Bond Fund - D (G),MPI1210
+ICICI Pru Long Term Bond Fund - IP (G),MPI046
+ICICI Pru Long Term Equity (Tax Svng)-G,MPI007
+ICICI Pru Long Term Equity-Tax Svng-DP-G,MPI1126
+ICICI Pru Medium Term Bond (G),MPI098
+ICICI Pru Medium Term Bond - B (G),MPI100
+ICICI Pru Medium Term Bond - D (G),MPI1182
+ICICI Pru Midcap Fund (G),MPI089
+ICICI Pru Midcap Fund - D (G),MPI1150
+ICICI Pru Moderate Fund (G),MPI070
+ICICI Pru Moderate Fund - D (G),MPI1434
+ICICI Pru Money Market Fund (G),MPI129
+ICICI Pru Money Market Fund - D (G),MPI1222
+ICICI Pru Money Market Fund - RP (G) ,MPI033
+ICICI Pru Multi Yield-Sr3-C-Dir(G),MPI1411
+ICICI Pru Multi Yield-Sr3-C-RP(G),MPI1409
+ICICI Pru Multi Yield-Sr3-D-RP(G),MPI1414
+ICICI Pru Multi Yield-Sr3-D-RP(G),MPI1412
+ICICI Pru Multi-Asset Fund (G),MPI038
+ICICI Pru Multi-Asset Fund - D(G),MPI1118
+ICICI Pru Multi-Asset Fund - IP (G),MPI891
+ICICI Pru Nifty Index Fund (G),MPI031
+ICICI Pru Nifty Index Fund - D (G),MPI1144
+ICICI Pru Nifty Next 50 Index (G),MPI751
+ICICI Pru Nifty Next 50 Index - D (G),MPI1185
+ICICI Pru Passive Strategy (G),MPI076
+ICICI Pru Passive Strategy - D (G),MPI1173
+ICICI Pru Reg Gold Savings Fund (G),MPI933
+ICICI Pru Reg. Gold Sav.-Direct (G),MPI1227
+ICICI Pru Regular Savings Fund (G),MPI084
+ICICI Pru Regular Savings Fund - D (G),MPI1157
+ICICI Pru RIGHT Fund (G),MPI691
+ICICI Pru Savings Fund (G),MPI036
+ICICI Pru Savings Fund - D (G),MPI1192
+ICICI Pru Savings Fund - RP (G),MPI639
+ICICI Pru Sensex Index - (G),MPI3397
+ICICI Pru Sensex Index - D (G),MPI3412
+ICICI Pru Short Term Fund (G),MPI030
+ICICI Pru Short Term Fund - D (G),MPI1231
+ICICI Pru Short Term Fund - IP (G),MPI043
+ICICI Pru Smallcap Fund - D (G),MPI1146
+ICICI Pru Smallcap Fund - IP (G),MPI245
+ICICI Pru Smallcap Fund - RP (G),MPI243
+ICICI Pru SPIcE Plan,MPI039
+ICICI Pru Technology Fund (G),MPI015
+ICICI Pru Technology Fund - D (G),MPI1128
+ICICI Pru Thematic Advantage (G),MPI074
+ICICI Pru Thematic Advantage - D (G),MPI1437
+ICICI Pru Ultra Short Term Fund (G),MPI867
+ICICI Pru Ultra Short Term Fund - D (G),MPI1165
+ICICI Pru US Bluechip Equity (G),MPI1065
+ICICI Pru US Bluechip Equity - D (G),MPI1240
+ICICI Pru Value Discovery Fund (G),MPI087
+ICICI Pru Value Discovery Fund - D (G),MPI1116
+ICICI Pru Value Fund - Sr 3-DP (D),MPI1875
+ICICI Pru Value Fund - Sr 3-RP (D),MPI1874
+ICICI Pru Value Fund - Sr 4-DP (G),MPI2069
+ICICI Pru Value Fund - Sr 4-RP (G),MPI2068
+ICICI Pru Value Fund - Sr 5-DP (G),MPI2204
+ICICI Pru Value Fund - Sr 5-RP (G),MPI2202
+ICICI Prudential Equity & Debt (G),MPI011
+ICICI Prudential Equity & Debt - D (G),MPI1136
+ICICI Prudential Gold ETF,MPI753
+ICICI Prudential Multicap Fund (G),MPI028
+ICICI Prudential Multicap Fund - D (G),MPI1132
+ICICI Prudential Nifty 100 ETF,MPI1512
+ICICI Prudential Nifty ETF,MPI1312
+ICICI Prudential Nifty Low Vol 30 ETF,MPI3352
+IDBI B&FS Fund-DP (G),MIB242
+IDBI B&FS Fund-RP (G),MIB240
+IDBI Credit Risk Fund-DP (G),MIB176
+IDBI Credit Risk Fund-RP (G),MIB174
+IDBI Diversified Equity Fund-DP (G),MIB216
+IDBI Diversified Equity Fund-RP (G),MIB214
+IDBI Dynamic Bond - Direct (G),MIB089
+IDBI Dynamic Bond Fund (G),MIB047
+IDBI Equity Advantage - Reg (G),MIB142
+IDBI Equity Advantage -Direct (G),MIB143
+IDBI Equity Savings (G),MIB013
+IDBI Equity Savings - Direct (G),MIB082
+IDBI Focused 30 Equity Fund-DP (G),MIB238
+IDBI Focused 30 Equity Fund-RP (G),MIB236
+IDBI Gilt Fund (G),MIB067
+IDBI Gilt Fund - Direct (G),MIB095
+IDBI Gold Exchange Traded Fund,MIB042
+IDBI Gold Fund,MIB066
+IDBI Gold Fund - Direct,MIB094
+IDBI Hybrid Equity Fund - DP (G),MIB226
+IDBI Hybrid Equity Fund - RP (G),MIB224
+IDBI India Top 100 Eqty -Direct (G),MIB092
+IDBI India Top 100 Equity Fund (G),MIB062
+IDBI Liquid Fund (G),MIB003
+IDBI Liquid Fund - Direct (G),MIB072
+IDBI Long Term Value-DP (G),MIB246
+IDBI Long Term Value-RP (G),MIB244
+IDBI Midcap Fund - DP (G),MIB230
+IDBI Midcap Fund - RP (G),MIB228
+IDBI Nifty Index Fund (G),MIB001
+IDBI Nifty Index Fund - Direct (G),MIB070
+IDBI Nifty Junior Index -Direct (G),MIB076
+IDBI Nifty Junior Index Fund (G),MIB007
+IDBI Short Term Bond - Direct (G),MIB085
+IDBI Short Term Bond Fund (G),MIB030
+IDBI Small Cap Fund - DP (G),MIB234
+IDBI Small Cap Fund - RP (G),MIB232
+IDBI Ultra Short Term - Direct (G),MIB078
+IDBI Ultra Short Term Fund (G),MIB009
+IDFC AAFoF - Moderate - Direct (G),MAG791
+IDFC AAFoF - Moderate - Regular (G),MAG359
+IDFC AAFoF -Aggressive -Direct (G),MAG787
+IDFC AAFoF -Aggressive -Regular (G),MAG355
+IDFC AAFoF-Conservative-Direct (G),MAG789
+IDFC AAFoF-Conservative-Regular (G),MAG357
+IDFC All Seasons Bond - Direct (G),MAG891
+IDFC All Seasons Bond-RP (G),MAG080
+IDFC Arbitrage Fund - Direct (G),MAG756
+IDFC Arbitrage Fund - Regular (G),MAG119
+IDFC B&PSU DF - Dir. (G),MAG841
+IDFC B&PSU DF - Reg. (G),MAG839
+IDFC Bond Fund - LTP (G),MAG001
+IDFC Bond Fund - LTP - D (G),MAG752
+IDFC Bond Fund - MTP (G),MAG045
+IDFC Bond Fund - MTP - D (G),MAG775
+IDFC Bond Fund - STP (G),MAG003
+IDFC Bond Fund - STP - Direct (G),MAG779
+IDFC Cash Fund - Direct (G),MAG796
+IDFC Cash Fund - Regular (G),MAG071
+IDFC Core Equity Fund (G),MAG091
+IDFC Core Equity Fund - D (G),MAG723
+IDFC Dynamic Bond - Direct (G),MAG758
+IDFC Dynamic Bond-Regular Plan (G),MAG314
+IDFC Equity Savings (G),MAG218
+IDFC Focused Equity - Direct (G),MAG727
+IDFC Focused Equity - Regular (G),MAG096
+IDFC FTP Series 128 - Direct (G),MAG1768
+IDFC FTP Series 128 - Regular (G),MAG1772
+IDFC FTP Series 129 - Direct (G),MAG1776
+IDFC FTP Series 130 - Direct (G),MAG1792
+IDFC FTP Series 130 - Regular (G),MAG1796
+IDFC FTP Series 131 - Direct (G),MAG1800
+IDFC FTP Series 131 - Regular (G),MAG1804
+IDFC FTP Series 140 - Direct (G),MAG1820
+IDFC FTP Series 140 - Regular (G),MAG1824
+IDFC FTP Series 141 - Direct (G),MAG1844
+IDFC FTP Series 141 - Regular (G),MAG1848
+IDFC FTP Series 142 - Direct (G),MAG1852
+IDFC FTP Series 142 - Regular (G),MAG1856
+IDFC FTP Series 143 - Direct (G),MAG1828
+IDFC FTP Series 143 - Regular (G),MAG1832
+IDFC FTP Series 144 - Direct (G),MAG1836
+IDFC FTP Series 144 - Regular (G),MAG1840
+IDFC FTP Series 145 - Direct (G),MAG1860
+IDFC FTP Series 145 - Regular (G),MAG1864
+IDFC FTP Series 146 - Direct (G),MAG1868
+IDFC FTP Series 146 - Regular (G),MAG1872
+IDFC FTP Series 147 - Direct (G),MAG1876
+IDFC FTP Series 147 - Regular (G),MAG1880
+IDFC FTP Series 148 - Direct (G),MAG1887
+IDFC FTP Series 148 - Regular (G),MAG1891
+IDFC FTP Series 149 - Direct (G),MAG1895
+IDFC FTP Series 149 - Regular (G),MAG1899
+IDFC FTP Series 150 - Direct (G),MAG1903
+IDFC FTP Series 150 - Regular (G),MAG1907
+IDFC FTP Series 151 - Direct (G),MAG1911
+IDFC FTP Series 151 - Regular (G),MAG1915
+IDFC FTP Series 152 - Direct (G),MAG1919
+IDFC FTP Series 152 - Regular (G),MAG1923
+IDFC FTP Series 153 - Direct (G),MAG1927
+IDFC FTP Series 153 - Regular (G),MAG1931
+IDFC FTP Series 154 - Direct (G),MAG1942
+IDFC FTP Series 154 - Regular (G),MAG1938
+IDFC FTP Series 155 - Direct (G),MAG1943
+IDFC FTP Series 155 - Regular (G),MAG1947
+IDFC FTP Series 156 - Direct (G),MAG1951
+IDFC FTP Series 156 - Regular (G),MAG1955
+IDFC FTP Series 157 - Direct (G),MAG1977
+IDFC FTP Series 157 - Regular (G),MAG1981
+IDFC FTP Series 159 - Direct (G),MAG1985
+IDFC FTP Series 159 - Regular (G),MAG1989
+IDFC FTP Series 160 - Direct (G),MAG1993
+IDFC FTP Series 160 - Regular (G),MAG1997
+IDFC FTP Series 161 - Direct (G),MAG2001
+IDFC FTP Series 161 - Regular (G),MAG2005
+IDFC G-Sec -Investment -D (G),MAG761
+IDFC G-Sec Fund - CMP (G),MAG014
+IDFC G-Sec Fund - CMP - D (G),MAG764
+IDFC G-Sec-Investment - (G),MAG322
+IDFC Infrastructure - Direct (G),MAG731
+IDFC Infrastructure - Plan A (G),MAG446
+IDFC Large Cap Fund (G),MAG106
+IDFC Large Cap Fund - D (G),MAG725
+IDFC Low Duration Fund (G),MAG098
+IDFC Low Duration Fund - D (G),MAG782
+IDFC Money Manager Fund (G),MAG020
+IDFC Money Manager Fund - D (G),MAG769
+IDFC Multi Cap Fund (G),MAG094
+IDFC Multi Cap Fund - D (G),MAG733
+IDFC Nifty Fund - Direct (G),MAG739
+IDFC Nifty Fund - Regular Plan (G),MAG386
+IDFC Regular Savings Fund (G),MAG361
+IDFC Regular Savings Fund - D (G),MAG792
+IDFC Savings Scheme - Sr I (G),MAG411
+IDFC Sterling Value Fund (G),MAG162
+IDFC Sterling Value Fund - D (G),MAG735
+IDFC Tax Adv. (ELSS) -Direct (G),MAG741
+IDFC Tax Advantage (ELSS)-RP (G),MAG303
+IDFC Ultra Short Term Fund (G),MAG1972
+IDFC Ultra Short Term Fund-D-(G),MAG1966
+IIFL Dynamic Bond Fund - DP (G),MII022
+IIFL Dynamic Bond Fund - RP (G),MII016
+IIFL Liquid Fund - Direct (G),MII044
+IIFL Liquid Fund - Regular (G),MII038
+Indiabulls Arbitrage Fund-Dir (AD),MIM120
+Indiabulls Arbitrage Fund-Dir (G),MIM077
+Indiabulls Arbitrage Fund-Reg (G),MIM074
+Indiabulls Blue Chip Fund (G),MIM010
+Indiabulls Blue Chip Fund - Dir (G),MIM031
+Indiabulls Gilt Fund - Direct (G),MIM024
+Indiabulls Income Fund (G),MIM036
+Indiabulls Income Fund - Direct (G),MIM040
+Indiabulls Liquid Fund (G),MIM001
+Indiabulls Liquid Fund -Direct (G),MIM029
+Indiabulls Savings Income Fund -DP (G),MIM087
+Indiabulls Savings Income Fund-RP (G),MIM085
+Indiabulls Short Term Fund-Dir (G),MIM065
+Indiabulls Short Term Fund-Reg (G),MIM060
+Indiabulls Tax Savings Fund-DP (G),MIM117
+Indiabulls Tax Savings Fund-RP (G),MIM115
+Indiabulls Ultra Short Term (G),MIM006
+Indiabulls Ultra Short Term-DP (G),MIM033
+Indiabulls Value Fund - Dir (G),MIM083
+Indiabulls Value Fund - Reg (G),MIM081
+II E&BF - DP (G),MLI1062
+II E&BF - RP (G),MLI1064
+Invesco Growth Opportunities - D (G),MLI560
+Invesco Growth Opportunities Fund (G),MLI099
+Invesco IF - Global Equity Income (G),MLI867
+Invesco IF - Global Equity Income-D (G),MLI869
+Invesco IF - Pan European Equity (G),MLI779
+Invesco IF - Pan European Equity-D (G),MLI781
+Invesco India Arbitrage -Dir (G),MLI572
+Invesco India Arbitrage Fund (G),MLI032
+Invesco India Banking & PSU Debt (G),MLI539
+Invesco India Banking & PSU Debt - D (G),MLI582
+Invesco India Contra (G),MLI019
+Invesco India Contra - Dir (G),MLI566
+Invesco India Corporate Bond (G),MLI107
+Invesco India Corporate Bond - DP (DD),MLI1097
+Invesco India Corporate Bond - DP (G),MLI589
+Invesco India Credit Risk - D (G),MLI897
+Invesco India Credit Risk - R (G),MLI895
+Invesco India Dynamic Equity (G),MLI117
+Invesco India Dynamic Equity - DP (G),MLI564
+Invesco India Financial Services (G),MLI257
+Invesco India Financial Services - D (G),MLI570
+Invesco India Gilt Fund - (G),MLI193
+Invesco India Gilt Fund - DP - (G),MLI598
+Invesco India Gold ETF,MLI347
+Invesco India Gold Fund (G),MLI464
+Invesco India Gold Fund -DP (G),MLI562
+Invesco India Infra. -Direct (G),MLI558
+Invesco India Infrastructure (G),MLI139
+Invesco India Largecap (G),MLI339
+Invesco India Largecap - D (G),MLI568
+Invesco India Liquid - RP (G),MLI001
+Invesco India Liquid -DP (G),MLI611
+Invesco India Liquid Fund (G),MLI007
+Invesco India Midcap (G),MLI021
+Invesco India Midcap - D (G),MLI556
+Invesco India Money Market (G),MLI343
+Invesco India Money Market - D (G),MLI585
+Invesco India Money Market - RP (G),MLI341
+Invesco India Multicap (G),MLI183
+Invesco India Multicap - D (G),MLI554
+Invesco India Nifty ETF,MLI428
+Invesco India PSU Equity (G),MLI345
+Invesco India PSU Equity-DP (G),MLI552
+Invesco India Regular Savings (G),MLI362
+Invesco India Regular Savings - D (G),MLI578
+Invesco India STF - Plan B (G),MLI028
+Invesco India STF Fund (G),MLI025
+Invesco India STF- Direct (G),MLI615
+Invesco India Tax Plan (G),MLI011
+Invesco India Tax Plan - DP (G),MLI550
+Invesco India Ultra Short Term (G),MLI384
+Invesco India Ultra Short Term - D (G),MLI607
+Invesco Treasury Advantage (G),MLI016
+Invesco Treasury Advantage - DP (G),MLI602
+Invesco Treasury Advantage -RP (G),MLI013
+JM Arbitrage Fund (G),MJM068
+JM Arbitrage Fund - D (G),MJM330
+JM Core 11 Fund (G),MJM171
+JM Core 11 Fund -Direct (G),MJM324
+JM Dynamic Debt Fund (G),MJM035
+JM Dynamic Debt Fund - D (G),MJM362
+JM Dynamic Debt Fund - PP (G),MJM057
+JM Equity Hybrid Fund (G),MJM004
+JM Equity Hybrid Fund - D (G),MJM328
+JM G-Sec Fund (G),MJM010
+JM G-Sec Fund - Direct (G),MJM357
+JM Income Fund (G),MJM006
+JM Income Fund - Direct (G),MJM348
+JM Large Cap Fund (G),MJM002
+JM Large Cap Fund - D (G),MJM322
+JM Liquid Fund (G),MJM008
+JM Liquid Fund - D (G),MJM351
+JM Liquid Fund - SIP (G),MJM050
+JM Low Duration Fund (G),MJM074
+JM Low Duration Fund - D (G),MJM344
+JM Money Market Fund (G),MJM072
+JM Money Market Fund - D (G),MJM340
+JM Multicap Fund (G),MJM238
+JM Multicap Fund - D (G),MJM320
+JM Short Term Fund (G),MJM026
+JM Short Term Fund - D (G),MJM317
+JM Short Term Fund - R (G),MJM020
+JM Tax Gain Fund (G),MJM157
+JM Tax Gain Fund -Direct (G),MJM315
+JM Ultra Short Duration (G),MJM070
+JM Ultra Short Duration - D (G),MJM336
+JM Value Fund (G),MJM124
+JM Value Fund - D (G),MJM326
+Kotak Asset Allocator Fund (G),MKM063
+Kotak Asset Allocator Fund - D (G),MKM524
+Kotak Balanced Advantage - Dir. (G),MKM1179
+Kotak Balanced Advantage - Reg. (G),MKM1177
+Kotak Banking & PSU Debt (G),MKM001
+Kotak Banking & PSU Debt - D (G),MKM551
+Kotak Banking ETF,MKM903
+Kotak Bluechip Fund (G),MKM003
+Kotak Bluechip Fund - D (G),MKM514
+Kotak Bond - Plan A - Direct Plan (G),MKM570
+Kotak Bond - Plan A - Regular Plan (G),MKM010
+Kotak Bond-Short Term Plan (G),MKM038
+Kotak Bond-Short Term Plan - D (G),MKM568
+Kotak Corporate Bond Fund (G),MAI035
+Kotak Corporate Bond Fund - D (G),MAI083
+Kotak Credit Risk Fund (G),MKM334
+Kotak Credit Risk Fund - D (G),MKM542
+Kotak Debt Hybrid (G),MKM050
+Kotak Debt Hybrid - D (G),MKM536
+Kotak Dynamic Bond Fund (G),MKM255
+Kotak Dynamic Bond Fund - D (G),MKM564
+Kotak Emerging Equity (G),MKM099
+Kotak Emerging Equity - D (G),MKM528
+Kotak Equity Arbitrage - Direct (G),MKM526
+Kotak Equity Arbitrage - Regular (G),MKM079
+Kotak Equity Hybrid (G),MKM897
+Kotak Equity Hybrid - D (G),MKM898
+Kotak Equity Opportunities (G),MKM067
+Kotak Equity Opportunities - D (G),MKM522
+Kotak Equity Savings Fund (G),MKM887
+Kotak Equity Savings Fund - D (G),MKM890
+Kotak Gilt Investment (G),MKM002
+Kotak Gilt Investment - D (G),MKM554
+Kotak Gilt-Inv PF & Trust - Direct (G),MKM578
+Kotak Gilt-Inv PF & Trust - Regular (G),MKM056
+Kotak Global Emerging Market (G),MKM162
+Kotak Global Emerging Market - D (G),MKM549
+Kotak Gold ETF,MKM103
+Kotak Gold Fund (G),MKM391
+Kotak Gold Fund - Direct (G),MKM547
+Kotak India EQ Contra Fund (G),MKM077
+Kotak India EQ Contra Fund - D (G),MKM530
+Kotak India Growth Fund-Sr II - Dir (G),MKM946
+Kotak India Growth Fund-Sr II - RP (G),MKM944
+Kotak India Growth Fund-Sr IV-Dir. (G),MKM1087
+Kotak India Growth Fund-Sr IV-Reg. (G),MKM1085
+Kotak India Growth Fund-Sr V-Dir. (G),MKM1135
+Kotak India Growth Fund-Sr V-Reg. (G),MKM1133
+Kotak India Growth Fund-Sr VII-Dir. (G),MKM1211
+Kotak India Growth Fund-Sr VII-Reg. (G),MKM1209
+Kotak Infras. & Eco Reform (G),MAI041
+Kotak Infras. & Eco Reform - D (G),MAI089
+Kotak Liquid Scheme (G),MKM053
+Kotak Liquid Scheme - D (G),MKM539
+Kotak Low Duration - Direct (G),MAI091
+Kotak Low Duration Fund (G),MAI049
+Kotak Medium Term Fund (G),MKM807
+Kotak Medium Term Fund - D (G),MKM811
+Kotak Money Market Scheme (G),MKM047
+Kotak Money Market Scheme - D (G),MKM556
+Kotak Nifty ETF,MKM321
+Kotak PSU Bank ETF,MKM178
+Kotak Savings Fund (G),MKM065
+Kotak Savings Fund - D (G),MKM562
+Kotak Sensex ETF,MKM237
+Kotak Small Cap Fund (G),MKM073
+Kotak Small Cap Fund - D (G),MKM516
+Kotak Standard Multicap Fund (G),MKM311
+Kotak Standard Multicap Fund - D (G),MKM520
+Kotak Tax Saver - Direct (G),MKM518
+Kotak Tax Saver - Regular (G),MKM081
+Kotak US Equity Fund - Direct (G),MAI099
+Kotak US Equity Fund - Standard (G),MAI097
+Kotak World Gold Fund (G),MAI053
+Kotak World Gold Fund - D (G),MAI095
+L&T  Midcap Fund (G),MCC037
+L&T  Midcap Fund -Direct (G),MCC275
+L&T Arbitrage Oppor. - Direct (G),MCC504
+L&T Arbitrage Oppor. - Regular (G),MCC502
+L&T B & PSU Debt (G),MFF037
+L&T B & PSU Debt - Direct (G),MCC277
+L&T Business Cycles - Direct (G),MCC519
+L&T Business Cycles - Regular (G),MCC516
+L&T Cash Fund (G),MFF021
+L&T Cash Fund -Direct (G),MCC313
+L&T Conservative Hybrid  (G),MCC026
+L&T Conservative Hybrid - Direct (G),MCC268
+L&T Credit Risk Fund - (G),MCC123
+L&T Credit Risk Fund - D (G),MCC295
+L&T Dynamic Equity Fund (G),MFF105
+L&T Dynamic Equity Fund -Direct (G),MCC311
+L&T Emerging Businesses Fund-DP (G),MCC492
+L&T Emerging Businesses Fund-RP (G),MCC490
+L&T Equity Fund (G),MFF001
+L&T Equity Fund -Direct (G),MCC309
+L&T Equity Savings Fund (G),MCC195
+L&T Equity Savings Fund - Direct (G),MCC272
+L&T Flexi Bond - Direct (G),MCC307
+L&T Flexi Bond - IP (G),MFF011
+L&T Gilt Fund (G),MCC008
+L&T Gilt Fund - Direct (G),MCC301
+L&T India Hybrid Equity Fund (G),MFF103
+L&T India Hybrid Equity Fund - D (G),MCC266
+L&T India Large Cap - Direct (G),MCC293
+L&T India Large Cap Fund (G),MFF027
+L&T India Value Fund (G),MFF061
+L&T India Value Fund -Direct (G),MCC289
+L&T Infrastructure (G),MCC081
+L&T Infrastructure -Direct (G),MCC285
+L&T Large and Midcap (G),MFF007
+L&T Large and Midcap Fund - D (G),MCC291
+L&T Liquid Fund - Direct (G),MCC283
+L&T Liquid Fund - G,MCC053
+L&T Long Term Adv. Fund - I (G),MCC117
+L&T Low Duration Fund (G),MFF091
+L&T Low Duration Fund - D (G),MCC264
+L&T Money Market Fund (G),MCC045
+L&T Money Market Fund - D (G),MCC303
+L&T Resurgent India Bond (G),MCC542
+L&T Resurgent India Bond - D (G),MCC544
+L&T Short Term Bond Fund (G),MCC206
+L&T Short Term Bond Fund - D (G),MCC260
+L&T Tax Advantage (G),MFF003
+L&T Tax Advantage -Direct (G),MCC258
+L&T Triple Ace Bond -Direct (G),MCC252
+L&T Triple Ace Bond Fund (G),MCC002
+L&T Ultra Short Term -Direct (G),MCC247
+L&T Ultra Short Term Fund (Bonus),MCC498
+L&T Ultra Short Term Fund (G),MCC021
+L&T Ultra Short Term Fund -RP (G),MCC004
+LIC Bond Fund (G),MJB002
+LIC Bond Fund -Direct (G),MJB170
+LIC Childrens Fund,MJB014
+LIC Childrens Fund - Direct ,MJB165
+LIC G-Sec LTE Fund - RP (G),MJB388
+LIC Govt. Sec Fund-PF (G),MJB025
+LIC Govt. Sec. -Direct (G),MJB186
+LIC Govt. Sec. Fund (G),MJB012
+LIC Index - Nifty Plan (G),MJB018
+LIC Index - Sensex Plan (G),MJB017
+LIC Index Nifty- Direct (G),MJB159
+LIC Index Sensex- Direct (G),MJB155
+LIC Infrastructure - Direct (G),MJB151
+LIC Infrastructure Sr-1 (G),MJB094
+LIC Liquid Fund (G),MJB015
+LIC Liquid Fund -Direct (G),MJB172
+LIC MF  Bkg&Fin Serv - DP (G),MJB399
+LIC MF  Bkg&Fin Serv - RP (G),MJB397
+LIC MF Banking & PSU Debt Fund (G),MJB051
+LIC MF Banking & PSU Debt Fund - D (G),MJB182
+LIC MF Debt Hybrid Fund (G),MJB020
+LIC MF Debt Hybrid Fund - D (G),MJB178
+LIC MF Equity Hybrid Fund (G),MJB006
+LIC MF Equity Hybrid Fund - D (G),MJB166
+LIC MF ETF - CNX Nifty 50,MJB439
+LIC MF ETF - Nifty 100,MJB449
+LIC MF ETF - Sensex,MJB440
+LIC MF Large & Mid Cap Fund (G),MJB393
+LIC MF Large & Mid Cap Fund - D (G),MJB395
+LIC MF Large Cap Fund (G),MJB009
+LIC MF Large Cap Fund - D (G),MJB161
+LIC MF Multicap Fund (G),MJB001
+LIC MF Multicap Fund - D (G),MJB163
+LIC MF Savings Fund (G),MJB023
+LIC MF Savings Plus-Direct (G),MJB174
+LIC Tax Plan (G),MJB013
+LIC Tax Plan - Direct (G),MJB147
+LIC Unit Linked Insurance,MJB235
+LIC Unit Linked Insurance,MJB003
+Mahindra Credit Risk Yojana - DP (G),MMH041
+Mahindra Credit Risk Yojana - RP (G),MMH039
+Mahindra LDBY- DP (G),MMH022
+Mahindra LDBY- RP (G),MMH017
+Mahindra LF - DP (G),MMH005
+Mahindra LF - RP (G),MMH001
+Mahindra MF DSESY - DP (G),MMH015
+Mahindra MF DSESY - RP (G),MMH013
+Mahindra MF KBY - DP (G),MMH011
+Mahindra MF KBY - RP (G),MMH009
+Mahindra UEBY - DP (G),MMH037
+Mahindra UEBY - RP (G),MMH035
+MMF Badhat Yojana - DP (G),MMH029
+MMF Badhat Yojana - RP (G),MMH027
+MMF Bal Vikas Yojana - DP (G),MMH033
+MMF Bal Vikas Yojana - RP (G),MMH031
+Mirae Asset DBF - Direct (G),MMA133
+Mirae Asset DBF - Regular (G),MMA135
+Mirae Asset GCF -Direct (G),MMA094
+Mirae Asset GCF -Regular (G),MMA090
+Mirae Asset HF - Direct (G),MMA141
+Mirae Asset HF - Regular (G),MMA143
+Mirae Asset India Equity - (G),MMA001
+Mirae Asset India Equity - D (G),MMA096
+Mirae Asset SF - Direct (G),MMA115
+Mirae Asset SF - RP (G),MMA014
+Mirae Asset STF - Direct (G),MMA137
+Mirae Asset STF - Regular (G),MMA139
+Mirae Asset Tax Saver Fund - DP  (G),MMA150
+Mirae Cash Mgmt Fund (G),MMA048
+Mirae Cash Mgmt Fund -Direct (G),MMA121
+Mirae Emerging Bluechip -Direct (G),MMA100
+Mirae Emerging Bluechip Fund (G),MMA088
+MO Equity Hybrid Fund - Reg. (G),MMO045
+MO Liquid Fund - Reg. (DD),MMO051
+MO Liquid Fund - Reg. (G),MMO049
+MO Liquid Fund - Reg. (MD),MMO052
+MO Liquid Fund - Reg. (WD),MMO053
+Motilal MOSt Oswal M50 ETF,MMO001
+Motilal MOSt Oswal Midcap 100 ETF,MMO002
+Motilal MOSt Oswal NASDAQ 100 ETF,MMO003
+Motilal Oswal Dynamic Fund - (G),MMO037
+Motilal Oswal Dynamic Fund - D (G),MMO039
+Motilal Oswal Focused 25 - (G),MMO009
+Motilal Oswal Focused 25 - D (G),MMO011
+Motilal Oswal Long Term Eq - (G),MMO033
+Motilal Oswal Long Term Eq - D (G),MMO035
+Motilal Oswal Midcap 30 - (G),MMO025
+Motilal Oswal Midcap 30 - D (G),MMO027
+Motilal Oswal Multicap 35 - (G),MMO029
+Motilal Oswal Multicap 35 - D (G),MMO031
+Motilal Ultra Short Term - (G),MMO013
+Motilal Ultra Short Term - D (G),MMO019
+PP Long Term Equity Fund -DP (G),MPP002
+PP Long Term Equity Fund -RP (G),MPP001
+Principal Balanced Advantage (G),MID247
+Principal Balanced Advantage - D (G),MID327
+Principal Cash Management (G),MID086
+Principal Cash Mgmt - Direct (G),MID284
+Principal Corporate Bond Fund (G),MID059
+Principal Corporate Bond Fund - D (G),MID297
+Principal Credit Risk Fund (G),MID076
+Principal Credit Risk Fund - D (G),MID292
+Principal Dividend Yield (G),MID072
+Principal Dividend Yield-Direct (G),MID300
+Principal Dynamic Bond Fund - (G),MID051
+Principal Dynamic Bond Fund - Dir. (G),MID313
+Principal Emer-Bluechip -Direct (G),MID302
+Principal Emerging Bluechip(G),MID221
+Principal Equity Savings Fund (G),MID035
+Principal Equity Savings Fund - D (G),MID294
+Principal Focused Multicap Fund (G),MID094
+Principal Focused Multicap Fund - D (G),MID318
+Principal Global Oppor (G),MID065
+Principal Global Oppor - Direct (G),MID304
+Principal Hybrid Equity Fund (G),MSF006
+Principal Hybrid Equity Fund - D (G),MID280
+Principal Low Duration Fund (G),MID083
+Principal Low Duration Fund - D (G),MID288
+Principal Multi Cap Growth - D (G),MID309
+Principal Multi Cap Growth Fund (G),MID010
+Principal Nifty 100 Equal Weight (G),MID009
+Principal Nifty 100 Equal Weight - D (G),MID316
+Principal Personal Tax Saver,MSF023
+Principal Short Term Debt Fund (G),MID054
+Principal Short Term Debt Fund - D (G),MID311
+Principal Tax Savings,MID026
+Principal Tax Savings - Direct,MID329
+Principal Ultra Short Term Fund (G),MID160
+Principal Ultra Short Term Fund - D (G),MID323
+Quant Absolute Fund (G),MES006
+Quant Absolute Fund - Direct (G),MES065
+Quant Active Fund (G),MES005
+Quant Active Fund - Direct (G),MES061
+Quant Consumption Fund (G),MES033
+Quant Consumption Fund - Direct (G),MES041
+Quant Dynamic Bond (G),MES001
+Quant Dynamic Bond - Direct (G),MES053
+Quant Focused Fund (G),MES031
+Quant Focused Fund -Direct (G),MES049
+Quant Infrastructure (G),MES025
+Quant Infrastructure -Direct (G),MES051
+Quant Large & Mid Cap (G),MES022
+Quant Large & Mid Cap -Direct (G),MES058
+Quant Liquid Plan (G),MES016
+Quant Liquid Plan - Direct (G),MES045
+Quant Mid Cap Fund (G),MES013
+Quant Mid Cap Fund - Direct (G),MES043
+Quant Small Cap Fund (G),MES011
+Quant Small Cap Fund - Direct (G),MES056
+Quant Tax Plan (G),MES003
+Quant Tax Plan - Direct (G),MES037
+Quant Ultra Short Duration -Direct (G),MES039
+Quant Ultra Short Duration Fund (G),MES020
+Quant Unconstrained Fund (G),MES007
+Quant Unconstrained Fund - Direct (G),MES063
+Quantum Dynamic Bond Fund - (G),MQU016
+Quantum Dynamic Bond Fund - D(G),MQU014
+Quantum Equity FOF - (G),MQU025
+Quantum Equity FOF - D(G),MQU010
+Quantum Gold Fund ,MQU006
+Quantum Gold Savings Fund - (G),MQU027
+Quantum Gold Savings Fund - D(G),MQU012
+Quantum Liquid Fund - (G) ,MQU020
+Quantum Liquid Fund - D(G) ,MQU003
+Quantum Long Term Equity Value - (G)  ,MQU018
+Quantum Long Term Equity Value - D(G)  ,MQU001
+Quantum Multi Asset Fund - (G),MQU028
+Quantum Multi Asset Fund - D(G),MQU013
+Quantum Nifty ETF (G),MQU007
+Quantum Tax Saving Fund - (G),MQU023
+Quantum Tax Saving Fund - D(G),MQU008
+CPSE Exchange Traded Fund,MBM040
+Reliance Arbitrage Fund (G),MRC600
+Reliance Arbitrage Fund - Direct (G),MRC899
+Reliance Balanced Advantage - Direct (G),MRC1002
+Reliance Balanced Advantage Fund (G),MRC078
+Reliance Banking & PSU Debt Fund (G),MRC1857
+Reliance Banking & PSU Debt Fund-DP (G),MRC1863
+Reliance Banking Fund (G),MRC026
+Reliance Banking Fund - Direct (G),MRC901
+Reliance Capital Builder-II-Sr-B (G),MRC1761
+Reliance Capital Builder-II-Sr-B DP(G),MRC1763
+Reliance Classic Bond Fund (G),MRC1590
+Reliance Classic Bond Fund - D (G),MRC1594
+Reliance Close-End Eqty-2-Sr-A (G),MRC1574
+Reliance Close-End Eqty-2-Sr-A-DP-G,MRC1576
+Reliance Consumption Fund - (G),MRC071
+Reliance Consumption Fund - Direct (G),MRC952
+Reliance Credit Risk Fund - Direct (G),MRC1013
+Reliance Credit Risk Fund - IP (G),MRC534
+Reliance Credit Risk Fund - RP (G),MRC099
+Reliance Dynamic Bond (G),MRC075
+Reliance Dynamic Bond - Direct (G),MRC907
+Reliance Equity Hybrid (G),MRC100
+Reliance Equity Hybrid - Direct (G),MRC1011
+Reliance Equity Savings Fund (G),MRC1869
+Reliance Equity Savings Fund-DP (G),MRC1874
+Reliance ETF Bank BeES,MBM004
+Reliance ETF Consumption,MRC1474
+Reliance ETF Dividend Opportunities,MRC1519
+Reliance ETF Gold BeES,MBM017
+Reliance ETF Hang Seng BeES,MBM026
+Reliance ETF Infra BeES,MBM030
+Reliance ETF Junior BeES,MBM002
+Reliance ETF Long Term Gilt,MRC2116
+Reliance ETF Nifty 100,MRC1048
+Reliance ETF Nifty BeES,MBM001
+Reliance ETF NV20,MRC1891
+Reliance ETF PSU Bank BeES,MBM018
+Reliance ETF Sensex,MRC1688
+Reliance ETF Shariah BeES,MBM025
+Reliance Floating Rate Fund (G),MRC068
+Reliance Floating Rate Fund - D (G),MRC963
+Reliance Focused Equity - D (G),MRC955
+Reliance Focused Equity Fund (G),MRC110
+Reliance Gilt Sec. - Direct (G),MRC969
+Reliance Gilt Sec. - IP (G),MRC455
+Reliance Gilt Sec. - RP (G),MRC453
+Reliance Gilt Securitie - Direct (Bonus),MRC1831
+Reliance Gold Savings - Direct (G),MRC917
+Reliance Gold Savings Fund (G),MRC647
+Reliance Growth Fund - RP (G),MRC008
+Reliance Growth Fund -Direct (G),MRC919
+Reliance Hybrid Bond Fund (G),MRC049
+Reliance Hybrid Bond Fund - Direct (G),MRC996
+Reliance Income Fund (G),MRC002
+Reliance Income Fund - Direct (G),MRC946
+Reliance Index - Nifty -Direct (G),MRC922
+Reliance Index -Sensex -Direct (G),MRC927
+Reliance Index Fund - Nifty (G),MRC590
+Reliance Index Fund - Sensex (G),MRC595
+Reliance Japan Equity Fund (G),MRC1650
+Reliance Japan Equity Fund-DP (G),MRC1653
+Reliance Large Cap Fund - Direct (G),MRC940
+Reliance Large Cap Fund - RP (G),MRC155
+Reliance Liquid Fund (G),MRC007
+Reliance Liquid Fund - Direct (G),MRC978
+Reliance Liquid Fund - IP (G),MRC046
+Reliance Low Duration Fund - D (G),MRC990
+Reliance Low Duration Fund - IP (G),MRC129
+Reliance Low Duration Fund - RP (G),MRC123
+Reliance Money Market Fund (G),MRC094
+Reliance Money Market Fund - D (G),MRC984
+Reliance Multi Cap - Direct (G),MRC914
+Reliance Multi Cap - RP (G),MRC089
+Reliance Nivesh Lakshya Fund - DP (AD),MRC2546
+Reliance Nivesh Lakshya Fund - DP (G),MRC2542
+Reliance Nivesh Lakshya Fund - DP (MD),MRC2544
+Reliance Nivesh Lakshya Fund - RP (AD),MRC2540
+Reliance Nivesh Lakshya Fund - RP (G),MRC2536
+Reliance Nivesh Lakshya Fund - RP (MD),MRC2538
+Reliance Pharma Fund (G),MRC058
+Reliance Pharma Fund - Direct (G),MRC1005
+Reliance Power & Infra (G),MRC055
+Reliance Power & Infra - Direct (B),MRC904
+Reliance Prime Debt Fund (G),MRC010
+Reliance Prime Debt Fund - D (G),MRC957
+Reliance Quant Fund - (G),MRC346
+Reliance Quant Fund - Direct (G),MRC1008
+Reliance RF -Income Generation (G),MRC1795
+Reliance RF -Income Generation - DP (G),MRC1798
+Reliance RF -Wealth Creation (G),MRC1789
+Reliance RF -Wealth Creation - DP (G),MRC1792
+Reliance Short Term - Direct (G),MRC1018
+Reliance Short Term Fund (G),MRC017
+Reliance Small Cap - Direct (G),MRC935
+Reliance Small Cap Fund (G),MRC587
+Reliance Tax Saver (ELSS) (G),MRC101
+Reliance Tax Saver(ELSS)-Direct (G),MRC938
+Reliance Ultra Short Duration (G),MRC014
+Reliance Ultra Short Duration - D (G),MRC972
+Reliance US Equity Opp. Fund (G),MRC1900
+Reliance US Equity Opp. Fund DP (G),MRC1902
+Reliance Value Fund (G),MRC098
+Reliance Value Fund - Direct (G),MRC1016
+Reliance Vision Fund - Direct (D),MRC945
+Reliance Vision Fund - RP (G),MRC001
+Sahara Bkg & Fin. Serv. -Direct (G),MFI085
+Sahara Bkg & Fin. Services (G),MFI053
+Sahara Growth Fund (G),MFI007
+Sahara Growth Fund - Direct (G),MFI063
+Sahara Infrastructure-FPO (G),MFI021
+Sahara Infrastructure-FPO-Direct(G),MFI081
+Sahara Infrastructure-VPO (G),MFI023
+Sahara Infrastructure-VPO-Direct(G),MFI079
+Sahara Liq-Variable Pricing -G,MFI029
+Sahara Liquid Fund-FPO -Direct (G),MFI101
+Sahara Liquid Fund-VPO -Direct (G),MFI097
+Sahara Liquid-Fixed Pricing -G,MFI025
+Sahara Midcap Fund (G),MFI013
+Sahara Midcap Fund - Direct (G),MFI075
+Sahara Power & Natural -Direct (G),MFI073
+Sahara Power&Natural Res. (G),MFI051
+Sahara REAL Fund - (G),MFI037
+Sahara REAL Fund - - Direct (G),MFI071
+Sahara Star Value Fund (G),MFI061
+Sahara Star Value Fund -Direct (G),MFI069
+Sahara Super 20 Fund (G),MFI059
+Sahara Super 20 Fund -Direct (G),MFI067
+Sahara Taxgain (G),MFI011
+Sahara Taxgain - Direct (G),MFI065
+Sahara Wealth Plus - FPO (G),MFI017
+Sahara Wealth Plus - VPO (G),MFI019
+Sahara Wealth Plus -FPO -Direct (G),MFI087
+Sahara Wealth Plus -VPO -Direct (G),MFI089
+SBI - ETF BSE 100,MSB1112
+SBI - ETF Gold,MSB211
+SBI - ETF Nifty 50,MSB1174
+SBI - ETF Nifty Bank,MSB1111
+SBI - ETF Nifty Next 50,MSB1113
+SBI - ETF Sensex,MSB583
+SBI - ETF SENSEX NEXT 50,MSB1421
+SBI Arbitrage Oppor. - Direct (G),MSB534
+SBI Arbitrage Oppor. Fund (G),MSB081
+SBI Banking & Financial Services -DP (G),MSB1101
+SBI Banking & Financial Services -RP (G),MSB1099
+SBI Banking & PSU Fund (G),MSA014
+SBI Banking & PSU Fund - D (G),MSA033
+SBI Blue Chip Fund (G),MSB079
+SBI Blue Chip Fund - Direct (G),MSB532
+SBI Consumption Opportunities (G),MSB492
+SBI Consumption Opportunities - D (G),MSB524
+SBI Contra Fund (G),MSB010
+SBI Contra Fund - Direct (G),MSB530
+SBI Credit Risk Fund (G),MSB055
+SBI Credit Risk Fund - D (G),MSB559
+SBI Debt Fund Sr-B-47 (365D) - DP (G),MSB1290
+SBI Debt Fund Sr-B-47 (365D) - RP (G),MSB1288
+SBI Debt Fund Sr-B-48 (365D) - DP (G),MSB1294
+SBI Debt Fund Sr-B-48 (365D) - RP (G),MSB1292
+SBI Debt Fund Sr-B-49 (1170D) - DP (G),MSB1298
+SBI Debt Fund Sr-B-49 (1170D) - RP (D),MSB1297
+SBI Debt Fund Sr-B-50 (1165D) - DP (G),MSB1302
+SBI Debt Fund Sr-B-50 (1165D) - RP (G),MSB1300
+SBI Debt Fund Sr-C-1 (1100D) - DP (G),MSB1311
+SBI Debt Fund Sr-C-1 (1100D) - RP (G),MSB1309
+SBI Debt Fund Sr-C-10 (1150D) - DP (G),MSB1351
+SBI Debt Fund Sr-C-10 (1150D) - RP (G),MSB1349
+SBI Debt Fund Sr-C-11 (91D) - DP (G),MSB1363
+SBI Debt Fund Sr-C-11 (91D) - RP (G),MSB1361
+SBI Debt Fund Sr-C-12 (1122D) - DP (G),MSB1367
+SBI Debt Fund Sr-C-12 (1122D) - RP (G),MSB1365
+SBI Debt Fund Sr-C-13 (91D) - DP (G),MSB1371
+SBI Debt Fund Sr-C-13 (91D) - RP (G),MSB1369
+SBI Debt Fund Sr-C-14 (1122D) - DP (G),MSB1359
+SBI Debt Fund Sr-C-14 (1122D) - RP (G),MSB1357
+SBI Debt Fund Sr-C-15 (91D) - DP (G),MSB1383
+SBI Debt Fund Sr-C-15 (91D) - RP (G),MSB1381
+SBI Debt Fund Sr-C-16 (1100D) - DP (G),MSB1387
+SBI Debt Fund Sr-C-16 (1100D) - RP (G),MSB1385
+SBI Debt Fund Sr-C-17 (91D) - DP (G),MSB1391
+SBI Debt Fund Sr-C-17 (91D) - RP (G),MSB1389
+SBI Debt Fund Sr-C-18 (1100D) - DP (G),MSB1395
+SBI Debt Fund Sr-C-18 (1100D) - RP (G),MSB1393
+SBI Debt Fund Sr-C-19 (1100D) - DP (G),MSB1399
+SBI Debt Fund Sr-C-19 (1100D) - RP (G),MSB1397
+SBI Debt Fund Sr-C-2 (1100D) - DP (G),MSB1319
+SBI Debt Fund Sr-C-2 (1100D) - RP (G),MSB1317
+SBI Debt Fund Sr-C-20 (1100D) - DP (G),MSB1407
+SBI Debt Fund Sr-C-20 (1100D) - RP (G),MSB1405
+SBI Debt Fund Sr-C-21 (1100D) - DP (G),MSB1411
+SBI Debt Fund Sr-C-21 (1100D) - RP (G),MSB1409
+SBI Debt Fund Sr-C-22 (1100D) - DP (G),MSB1415
+SBI Debt Fund Sr-C-22 (1100D) - RP (G),MSB1413
+SBI Debt Fund Sr-C-23 (1100D) - DP (G),MSB1419
+SBI Debt Fund Sr-C-23 (1100D) - RP (G),MSB1417
+SBI Debt Fund Sr-C-7 (1190D) - DP (G),MSB1339
+SBI Debt Fund Sr-C-7 (1190D) - RP (G),MSB1337
+SBI Debt Fund Sr-C-8 (1175D) - DP (G),MSB1343
+SBI Debt Fund Sr-C-8 (1175D) - RP (G),MSB1341
+SBI Debt Fund Sr-C-9 (1150D) - DP (G),MSB1347
+SBI Debt Fund Sr-C-9 (1150D) - RP (G),MSB1345
+SBI Debt Hybrid Fund (G),MSB021
+SBI Debt Hybrid Fund - D (G),MSB538
+SBI Dynamic Asset Allocation Fund-DP (G),MSB1109
+SBI Dynamic Asset Allocation Fund-RP (G),MSB1107
+SBI Dynamic Bond Fund (G),MSB048
+SBI Dynamic Bond Fund - Direct (G),MSB528
+SBI Equity Hybrid Fund (G),MSB063
+SBI Equity Hybrid Fund - D (G),MSB516
+SBI Equity Oppor. Sr-1 - Direct (G),MSB1033
+SBI Equity Oppor. Sr-1 - Regular(G),MSB1031
+SBI Equity Savings Fund-DP (G),MSB1142
+SBI Equity Savings Fund-RP (G),MSB1138
+SBI Focused Equity Fund (G),MSB059
+SBI Focused Equity Fund - D (G),MSB536
+SBI Gold Fund (G),MSB327
+SBI Gold Fund - Direct (G),MSB522
+SBI Healthcare Opportunities (G),MSB062
+SBI Healthcare Opportunities - D (G),MSB497
+SBI Infrastructure Fund - (G),MSB091
+SBI Infrastructure Fund - D (G),MSB520
+SBI Large & Midcap Fund (G),MSB003
+SBI Large & Midcap Fund - D (G),MSB501
+SBI Liquid - D (G),MSB562
+SBI Liquid - IP (G),MSB036
+SBI Liquid Fund (G),MSB087
+SBI Long Term Advantage-Sr1-DP (G),MSB1065
+SBI Long Term Advantage-Sr1-RP (G),MSB1063
+SBI Long Term Advantage-Sr2-DP (G),MSB1093
+SBI Long Term Advantage-Sr2-RP (G),MSB1091
+SBI LTAF-Sr-5 Regular (G),MSB1329
+SBI LTAF-Sr-5 Regular- Direct (G),MSB1331
+SBI LTAF-Sr-6 Direct (G),MSB1375
+SBI LTAF-Sr-6 Regular (G),MSB1373
+SBI Magnum Childrens Benefit Fund,MSB026
+SBI Magnum Childrens Benefit Fund - D,MSB515
+SBI Magnum Comma Fund (G),MSB069
+SBI Magnum Comma Fund - Direct (G),MSB513
+SBI Magnum Constant Maturity (G),MSB017
+SBI Magnum Constant Maturity - D  (G),MSB566
+SBI Magnum Equity ESG Fund (G),MSB085
+SBI Magnum Equity ESG Fund - D (G),MSB511
+SBI Magnum Gilt Fund (G),MSB019
+SBI Magnum Gilt Fund - D (G),MSB568
+SBI Magnum Gilt Fund - PF (G),MSB038
+SBI Magnum Gilt Fund - PF 3Y (G),MSB044
+SBI Magnum Global Fund (G),MSB011
+SBI Magnum Global Fund - Direct (G),MSB509
+SBI Magnum Income Fund (G),MSB004
+SBI Magnum Income Fund - Direct (G),MSB552
+SBI Magnum Low Duration (G),MSB094
+SBI Magnum Low Duration - D (G),MSB570
+SBI Magnum Medium Duration Fund (G),MSB030
+SBI Magnum Medium Duration Fund - D (G),MSB493
+SBI Magnum Midcap Fund (G),MSB065
+SBI Magnum Midcap Fund - Direct (G),MSB505
+SBI Magnum Multicap Fund (G),MSB073
+SBI Magnum Multicap Fund - Direct (G),MSB503
+SBI Magnum Tax Gain (G),MSB093
+SBI Magnum Tax Gain - Direct (G),MSB499
+SBI Magnum Ultra Short Duration (G),MSB005
+SBI Magnum Ultra Short Duration - D (G),MSB546
+SBI Multi Asset Allocation Fund (G),MSB075
+SBI Multi Asset Allocation Fund - D (G),MSB542
+SBI Nifty Index Fund (G),MSB025
+SBI Nifty Index Fund - Direct (G),MSB507
+SBI Overnight Fund (G),MSB027
+SBI Overnight Fund - D (G),MSB549
+SBI PSU Fund (G),MSB222
+SBI PSU Fund - Direct (G),MSB495
+SBI Savings Fund - Direct (G),MSB555
+SBI Savings Fund - Regular (G),MSB053
+SBI SHDF - USTF - IP (G),MSB099
+SBI Short Horizon Debt-STF -RP (G),MSB104
+SBI Short Term Debt - Direct (G),MSB575
+SBI Short Term Debt - RP (G),MSB108
+SBI Small Cap Fund (G),MSA012
+SBI Small Cap Fund - D (G),MSA031
+SBI Tax Advantage Sr-2 (G),MSB368
+SBI Tax Advantage Sr-3- Direct (G),MSB815
+SBI Tax Advantage Sr-3- Regular (G),MSB813
+SBI Technology Opportunities (G),MSB491
+SBI Technology Opportunities - D (G),MSB518
+Shriram Hybrid Equity Fund (G),MSR001
+Shriram Hybrid Equity Fund - D (G),MSR003
+Sundaram Banking & PSU Debt (G),MSN070
+Sundaram Banking & PSU Debt - D (G),MSN606
+Sundaram Banking & PSU Debt - Retail (G),MSN068
+Sundaram Corporate Bond Fund (G),MSN074
+Sundaram Corporate Bond Fund - D (G),MSN611
+Sundaram Debt Oriented Hybrid - D (G),MSN588
+Sundaram Debt Oriented Hybrid Fund (G),MSN348
+Sundaram Diversified Equity (G),MSN004
+Sundaram Diversified Equity -Direct (G),MSN564
+Sundaram Equity Hybrid Fund (G),MSN006
+Sundaram Equity Hybrid Fund - D (G),MSN557
+Sundaram FIIF-Qtrly Srs-C-DP (G),MSN865
+Sundaram FIIF-Qtrly Srs-C-RP (G),MSN863
+Sundaram Fin-Serv Opp. -Direct (G),MSN549
+Sundaram Fin-Serv. Opp.-IP (G),MSN229
+Sundaram Fin-Serv. Opp.-RP (G),MSN227
+Sundaram FTP Sr - HV (1155D) - Dir (G),MSN1314
+Sundaram FTP Sr - HV (1155D) - RP (G),MSN1312
+Sundaram FTP Sr - IC (1206D) - DP (G),MSN1379
+Sundaram FTP Sr - IC (1206D) - RP (G),MSN1377
+Sundaram FTP Sr - ID (1206D) - DP (G),MSN1383
+Sundaram FTP Sr - ID (1206D) - RP (G),MSN1381
+Sundaram FTP Sr - IE (1200D) - DP (G),MSN1387
+Sundaram FTP Sr - IE (1200D) - RP (G),MSN1385
+Sundaram FTP Sr - IF (1164D) - DP (G),MSN1395
+Sundaram FTP Sr - IF (1164D) - RP (G),MSN1393
+Sundaram FTP Sr - IH (138D) - DP (G),MSN1412
+Sundaram FTP Sr - IH (138D) - RP (G),MSN1410
+Sundaram FTP Sr - II (92D) - DP (G),MSN1416
+Sundaram FTP Sr - II (92D) - RP (G),MSN1414
+Sundaram FTP Sr - IJ (1099D) - DP (G),MSN1428
+Sundaram FTP Sr - IJ (1099D) - RP (G),MSN1426
+Sundaram FTP Sr - IK (1098D) - DP (G),MSN1436
+Sundaram FTP Sr - IK (1098D) - RP (G),MSN1434
+Sundaram FTP Sr - IL (1098D) - DP (G),MSN1448
+Sundaram FTP Sr - IL (1098D) - RP (G),MSN1446
+Sundaram Global Adv. -Direct (G),MSN545
+Sundaram Global Advantage (G),MSN135
+Sundaram Infrastructure Adv -DP (G),MSN555
+Sundaram Infrastructure Adv -RP (G),MSN083
+Sundaram Large and Mid Cap Fund (G),MSN101
+Sundaram Large and Mid Cap Fund - D (G),MSN553
+Sundaram Low Duration Fund (G),MSN115
+Sundaram Low Duration Fund - D (G),MSN625
+Sundaram Low Duration Fund - IP (G),MSN109
+Sundaram Low Duration Fund - RP (G),MSN103
+Sundaram LT Tax Adv.- Sr-III- DP (G),MSN1375
+Sundaram LT Tax Adv.- Sr-III- RP (G),MSN1373
+Sundaram LT Tax Adv.- Sr-IV- DP (G),MSN1404
+Sundaram LT Tax Adv.- Sr-IV- RP (G),MSN1402
+Sundaram LT Tax Adv.- Sr-V- DP (G),MSN1432
+Sundaram LT Tax Adv.- Sr-V- RP (G),MSN1430
+Sundaram LT Tax Advantage- Sr-I - DP (G),MSN1095
+Sundaram LT Tax Advantage- Sr-I - RP (G),MSN1093
+Sundaram LT Tax Advantage- Sr-II- DP (G),MSN1191
+Sundaram LT Tax Advantage- Sr-II- RP (G),MSN1189
+Sundaram Medium Term Bond Fund (G),MSN002
+Sundaram Medium Term Bond Fund - D(G),MSN559
+Sundaram Medium Term Bond Fund - IP (G),MSN041
+Sundaram Mid Cap Fund (G),MSN012
+Sundaram Mid Cap Fund - D (G),MSN568
+Sundaram Mid Cap Fund -IP (D),MSN335
+Sundaram Money - Inst Plan (G),MSN060
+Sundaram Money Fund (G),MSN005
+Sundaram Money Fund - Reg Plan (G),MSN091
+Sundaram Money Fund -Direct (G),MSN593
+Sundaram Rural and Consumption - D (G),MSN574
+Sundaram Rural and Consumption Fund (G),MSN097
+Sundaram Select Focus - IP (G),MSN243
+Sundaram Select Focus - RP (G),MSN011
+Sundaram Select Focus -Direct (G),MSN570
+Sundaram Select Micro Cap-Sr 10-DP-G,MSN1201
+Sundaram Select Micro Cap-Sr 10-RP-G,MSN1199
+Sundaram Select Micro Cap-Sr 11-DP-G,MSN1294
+Sundaram Select Micro Cap-Sr 11-RP-G,MSN1292
+Sundaram Select Micro Cap-Sr 12-DP-G,MSN1302
+Sundaram Select Micro Cap-Sr 12-RP-G,MSN1300
+Sundaram Select Micro Cap-Sr 14-DP-G,MSN1326
+Sundaram Select Micro Cap-Sr 14-RP-G,MSN1324
+Sundaram Select Micro Cap-Sr 15-DP-G,MSN1343
+Sundaram Select Micro Cap-Sr 15-RP-G,MSN1341
+Sundaram Select Micro Cap-Sr 16-DP-G,MSN1359
+Sundaram Select Micro Cap-Sr 16-RP-G,MSN1357
+Sundaram Select Micro Cap-Sr 17-DP-G,MSN1363
+Sundaram Select Micro Cap-Sr 17-RP-G,MSN1361
+Sundaram Select Micro Cap-Sr 3-DP-G,MSN843
+Sundaram Select Micro Cap-Sr 3-RP-G,MSN841
+Sundaram Select Micro Cap-Sr 4-DP-G,MSN869
+Sundaram Select Micro Cap-Sr 4-RP-G,MSN867
+Sundaram Select Micro Cap-Sr 5-DP-G,MSN1037
+Sundaram Select Micro Cap-Sr 5-RP-G,MSN1035
+Sundaram Select Micro Cap-Sr 6-DP-G,MSN1047
+Sundaram Select Micro Cap-Sr 6-RP-G,MSN1045
+Sundaram Select Micro Cap-Sr 8-DP-G,MSN1182
+Sundaram Select Micro Cap-Sr 8-RP-G,MSN1180
+Sundaram Select Micro Cap-Sr 9-DP-G,MSN1187
+Sundaram Select Micro Cap-Sr 9-RP-G,MSN1185
+Sundaram Select Small Cap - Sr. V-DP-G,MSN1347
+Sundaram Select Small Cap - Sr. V-RP-G,MSN1345
+Sundaram Select Small Cap - Sr. VI-DP-G,MSN1355
+Sundaram Select Small Cap - Sr. VI-RP-G,MSN1353
+Sundaram Short Term Credit Risk (G),MSN013
+Sundaram Short Term Credit Risk - D (G),MSN600
+Sundaram Short Term Debt Fund (G),MSN015
+Sundaram Short Term Debt Fund D (G),MSN617
+Sundaram Small Cap - Series III-DP-G,MSN1123
+Sundaram Small Cap - Series III-RP-G,MSN1121
+Sundaram Small Cap - Series IV-DP-G,MSN1143
+Sundaram Small Cap - Series IV-RP-G,MSN1141
+Sundaram Small Cap Fund - D (G),MSN572
+Sundaram SMILE Fund (G),MSN066
+Sundaram SMILE Fund - IP (G),MSN339
+Sundaram TOP 100 - Series VI-DP-G,MSN1306
+Sundaram TOP 100 - Series VI-RP-G,MSN1304
+Sundaram TOP 100 - Series VII-DP-G,MSN1318
+Sundaram TOP 100 - Series VII-RP-G,MSN1316
+Sundaram Value Fund - Sr II - Direct (G),MSN1109
+Sundaram Value Fund - Sr II - Regular (G,MSN1107
+Sundaram World Brand - Sr II - DP-G,MSN1083
+Sundaram World Brand - Sr II - RP-G,MSN1081
+Sundaram World Brand - Sr III - DP-G,MSN1087
+Sundaram World Brand - Sr III - RP-G,MSN1085
+Tata Bkg & Fin Serv. Fund - Direct (G),MTA1143
+Tata Bkg & Fin Serv. Fund - Regular (G),MTA1141
+Tata Corporate Bond- Regular Plan (G),MTA169
+Tata Corporate Bond-Direct (G),MTA797
+Tata Digital India Fund - Direct (G),MTA1147
+Tata Digital India Fund - Regular (G),MTA1145
+Tata Dynamic Bond - Regular Plan (G),MTA059
+Tata Dynamic Bond Fund - Direct (G),MTA725
+Tata Equity P/E Fund (G),MTA125
+Tata Equity P/E Fund - Direct (G),MTA732
+Tata Equity Savings Fund (G),MTA055
+Tata Equity Savings Fund - D (G),MTA785
+Tata Ethical Fund (G),MTA010
+Tata Ethical Fund - Direct (G),MTA735
+Tata FIPF Scheme-C2 - Plan A (G),MTA313
+Tata FIPF Scheme-C2- RP (G),MTA309
+Tata FIPF Scheme-C3 - Plan A (G),MTA321
+Tata FIPF Scheme-C3- RP (G),MTA317
+Tata Gilt RP (28/02/25) (G),MTA114
+Tata Gilt Securities Fund (G),MTA014
+Tata Gilt Securities Fund - D (G),MTA747
+Tata Hybrid Equity Fund (G),MTA001
+Tata Hybrid Equity Fund - D (G),MTA718
+Tata Income Fund (G),MTA005
+Tata Income Fund - D (G),MTA755
+Tata Index Fund - Nifty - Direct Plan,MTA763
+Tata Index Fund - Nifty - Regular Plan,MTA035
+Tata Index Fund - Sensex - Direct,MTA764
+Tata Index Fund - Sensex - Regular Plan,MTA037
+Tata India Consumer Fund - Direct (G),MTA1151
+Tata India Consumer Fund - Regular (G),MTA1149
+Tata India Pharma & HealthCare - RP (G),MTA1153
+Tata India Pharma & HealthCare -Dir (G),MTA1155
+Tata India Tax Savings Fund - Direct (G),MTA1114
+Tata India Tax Savings Fund - Reg (G),MTA1113
+Tata Infra Tax Saving Fund (G),MTA470
+Tata Infrastructure - Direct (G),MTA767
+Tata Infrastructure Fund - Regular (G),MTA131
+Tata Large & Mid Cap Fund (G) ,MTA043
+Tata Large & Mid Cap Fund - D (G) ,MTA730
+Tata Large Cap Fund  - Regular Plan (G),MTA006
+Tata Large Cap Fund - Direct (G),MTA788
+Tata Liquid Fund - Direct (G),MTA783
+Tata Liquid Fund - Regular (G),MTA127
+Tata Medium Term - Direct (G),MTA760
+Tata Medium Term - Regular Plan (G),MTA023
+Tata Mid Cap Growth - Direct (G),MTA776
+Tata Mid Cap Growth Fund (G),MTA122
+Tata Money Market Fund (G),MTA048
+Tata Money Market Fund - D (G),MTA769
+Tata Multi Cap - Dir. (G),MTA1327
+Tata Multi Cap - Reg. (G),MTA1329
+Tata Resources & Energy Fund - Dir (G),MTA1159
+Tata Resources & Energy Fund - RP (G),MTA1157
+Tata Retirement Sav. - Conservative,MTA623
+Tata Retirement Sav. - Moderate,MTA622
+Tata Retirement Sav. - Progresive,MTA624
+Tata RSF - Conservative - Direct,MTA790
+Tata RSF - Moderate - Direct,MTA792
+Tata RSF - Progresive - Direct,MTA791
+Tata Short Term Bond - Direct (G),MTA793
+Tata Short Term Bond Fund - Regular (G),MTA020
+Tata Treasury Advantage - (G),MTA137
+Tata Treasury Advantage - D (G),MTA737
+Tata Value Fund - Sr.1 - Dir. (G),MTA1221
+Tata Value Fund - Sr.1 - Reg. (G),MTA1223
+Tata Value Fund - Sr.2 - Dir. (G),MTA1225
+Tata Value Fund - Sr.2 - Reg. (G),MTA1227
+Tata Young Citizens Fund - Direct ,MTA801
+Tata Young Citizens Fund - Regular,MTA002
+Taurus Bank & Fin. Serv.-Direct (G),MCM159
+Taurus Banking&Financial Serv. (G),MCM120
+Taurus Discovery (Midcap) (G),MCM041
+Taurus Discovery (Midcap) - D (G),MCM132
+Taurus Ethical Fund (G),MCM049
+Taurus Ethical Fund - Direct (G),MCM134
+Taurus Infrastructure (G),MCM012
+Taurus Infrastructure -Direct (G),MCM141
+Taurus Largecap Equity Fund (G),MCM015
+Taurus Largecap Equity Fund - D (G),MCM130
+Taurus Liquid Fund - Direct (G),MCM143
+Taurus Liquid Fund - RP (G),MCM010
+Taurus Liquid Fund - SIP (G),MCM046
+Taurus Nifty Index - Direct (G),MCM153
+Taurus Nifty Index Fund (G),MCM068
+Taurus Starshare MCF (G),MCM042
+Taurus Starshare MCF - D (G),MCM149
+Taurus Tax Shield (G),MCM014
+Taurus Tax Shield - Direct (G),MCM151
+Union AAF - (G),MUK021
+Union AAF - Direct (G),MUK043
+Union Dynamic Bond - Direct (G),MUK036
+Union Dynamic Bond Fund (G),MUK014
+Union Equity Fund (G),MUK001
+Union Equity Fund - Direct (G),MUK027
+Union Liquid Fund (G),MUK003
+Union Liquid Fund - Direct (G),MUK029
+Union SCF -DP (G),MUK091
+Union SCF -RP (G),MUK089
+Union Tax Saver - Direct (G),MUK034
+Union Tax Saver Scheme (G),MUK010
+UTI Arbitrage Fund (G),MUT102
+UTI Arbitrage Fund - Direct (G),MUT712
+UTI Banking & Financial Services (G),MUT064
+UTI Banking & Financial Services - D (G),MUT631
+UTI Banking & PSU Debt-Dir (G),MUT1089
+UTI Banking & PSU Debt-Reg (G),MUT1087
+UTI Bond Fund (G),MUT021
+UTI Bond Fund - Direct (G),MUT697
+UTI CCF - Investment Plan (G),MUT068
+UTI CCF - Investment Plan - D (G),MUT670
+UTI CCF - Savings Plan - DP,MUT669
+UTI CCF - Savings Plan - RP,MUT002
+UTI Core Equity Fund (G),MUT010
+UTI Core Equity Fund - D (G),MUT633
+UTI Corporate Bond Fund - DP (G),MUT3235
+UTI Corporate Bond Fund - RP (G),MUT3231
+UTI Credit Risk Fund (G),MUT601
+UTI Credit Risk Fund - D (G),MUT695
+UTI Dividend Yield Fund (G),MUT070
+UTI Dividend Yield Fund -Direct (G),MUT653
+UTI Dynamic Bond Fund (G),MUT430
+UTI Dynamic Bond Fund - Direct (G),MUT691
+UTI Equity Fund (G),MUT009
+UTI Equity Fund - Direct (G),MUT651
+UTI FTIF Sr-26-4 (1133D) DP (G),MUT2680
+UTI FTIF Sr-26-4 (1133D) RP (G),MUT2675
+UTI Gilt Fund (G),MIL015
+UTI Gilt Fund - D (G),MUT693
+UTI Gilt Fund - PF (G),MIL036
+UTI Gold Exchange Traded Fund,MUT113
+UTI Healthcare Fund (G),MUT031
+UTI Healthcare Fund - D (G),MUT621
+UTI Hybrid Equity Fund (G),MUT019
+UTI Hybrid Equity Fund - D (G),MUT661
+UTI India Lifestyle Fund -Direct(G),MUT649
+UTI India Lifestyle Fund(G),MUT129
+UTI Infrastructure Fund (G),MUT065
+UTI Infrastructure Fund -Direct (G),MUT647
+UTI Invest-Bond-1 (60M) RP (G),MUT145
+UTI Liquid Cash - (Inst) (G),MUT058
+UTI Liquid Cash Plan (G),MUT046
+UTI Liquid Cash Plan - Direct (G),MUT679
+UTI Long Term Advantage S3 (G),MUT2233
+UTI Long Term Advantage S3 (G),MUT2235
+UTI Long Term Advantage S4 (G),MUT2570
+UTI Long Term Advantage S4 (G),MUT2568
+UTI Long Term Advantage S5 (G),MUT2769
+UTI Long Term Advantage S5 (G),MUT2771
+UTI Long Term Advantage S6 (G),MUT2920
+UTI Long Term Advantage S6 (G),MUT2922
+UTI Long Term Advantage S7 (G),MUT2968
+UTI Long Term Advantage S7 (G),MUT2970
+UTI LTEF (Tax Saving) (G),MUT025
+UTI LTEF (Tax Saving) - Direct (G),MUT619
+UTI Master Equity Plan (US),MUT101
+UTI Mastershare Unit Scheme (G),MUT051
+UTI Mastershare Unit Scheme - Direct (G),MUT639
+UTI Medium Term Fund - Direct (G),MUT1900
+UTI Mid Cap (G),MUT063
+UTI Mid Cap - Direct (G),MUT637
+UTI MNC Fund (G),MUT023
+UTI MNC Fund - Direct (G),MUT629
+UTI Money Market Fund (G),MUT028
+UTI Money Market Fund - Direct (G),MUT676
+UTI Money Market Fund -IP (G),MUT402
+UTI Multi Asset Fund - D (G),MUT659
+UTI Multi Asset Fund - R (G),MUT321
+UTI Nifty Index Fund (G),MUT029
+UTI Nifty Index Fund - Direct (G),MUT657
+UTI Overnight Fund (G),MUT054
+UTI Overnight Fund - D (G),MUT689
+UTI Regular Savings Fund (G),MIL040
+UTI Regular Savings Fund - D (G),MUT672
+UTI Retirement Benefit Pension - D,MUT664
+UTI Retirement Benefit Pension - R,MUT015
+UTI Short Term Income - Direct (G),MUT687
+UTI Short Term Income - IP (G),MUT056
+UTI Short Term Income - RP (G),MUT048
+UTI Transport & Logistics (G),MUT066
+UTI Transport&Logistics -Direct (G),MUT623
+UTI Treasury Advantage -Direct (G),MUT683
+UTI Treasury Advtg - RP (G),MIL001
+UTI Treasury Advtg -Inst (G),MUT119
+UTI Ultra Short Term - Direct (G),MUT699
+UTI Ultra Short Term - IP (G),MUT405
+UTI Ultra Short Term - Retail (G),MIL034
+UTI Unit Linked Ins Plan - Direct,MUT663
+UTI Unit Linked Insurance Plan,MUT018
+UTI Value Opportunities Fund (G),MUT072
+UTI Value Opportunities Fund - D (G),MUT635
+UTI-Focussed Equity - Sr I-DP (G),MUT1575
+UTI-Focussed Equity - Sr I-RP (G),MUT1573
+UTI-Focussed Equity - Sr IV-DP (G),MUT2908
+UTI-Focussed Equity - Sr IV-RP (G),MUT2906
+UTI-Focussed Equity - Sr V-DP (G),MUT2936
+UTI-Focussed Equity - Sr V-RP (G),MUT2934
+UTI-Focussed Equity - Sr VI-DP (G),MUT3014
+UTI-Focussed Equity - Sr VI-RP (G),MUT3012
