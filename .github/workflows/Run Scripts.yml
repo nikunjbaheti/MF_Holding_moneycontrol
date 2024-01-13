@@ -20,10 +20,10 @@ jobs:
         pip install -r requirements.txt  # If you have any requirements
 
     - name: Run DirectPlansAMC.py
-      run: python DirectPlansAMC.py
+      run: python /src/DirectPlansAMC.py
 
     - name: Run createBulkCsv.py
-      run: python createBulkCsv.py
+      run: python /src/createBulkCsv.py
 
     - name: Run utiNifty.py
-      run: python utiNifty.py
+      run: python /src/utiNifty.py
